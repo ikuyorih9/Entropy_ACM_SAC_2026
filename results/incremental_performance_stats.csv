@@ -1,0 +1,6 @@
+,compressor,load,VP,FN,VN,FP,accuracy,precision,recall,f1_score
+4,ZLIB,OIL-MAMMO,7,0,1,0,1.0,1.0,1.0,1.0
+3,PPMD,OIL-MAMMO,7,0,1,0,1.0,1.0,1.0,1.0
+2,GZIP,OIL-MAMMO,7,0,1,0,1.0,1.0,1.0,1.0
+0,BZ2,OIL-MAMMO,7,0,1,0,1.0,1.0,1.0,1.0
+1,ENTROPY,OIL-MAMMO,7,0,1,0,1.0,1.0,1.0,1.0
