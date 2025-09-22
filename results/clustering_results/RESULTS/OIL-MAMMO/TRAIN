@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5865421295166016,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.521761417388916,
+        "repetition": 1
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5043148994445801,
+        "repetition": 2
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5114743709564209,
+        "repetition": 3
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5118639469146729,
+        "repetition": 4
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5084502696990967,
+        "repetition": 5
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5117475986480713,
+        "repetition": 6
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49320411682128906,
+        "repetition": 7
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5429525375366211,
+        "repetition": 8
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.8406352996826172,
+        "repetition": 9
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.6367208957672119,
+        "repetition": 10
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.6557230949401855,
+        "repetition": 11
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.4427158832550049,
+        "repetition": 12
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.9512248039245605,
+        "repetition": 13
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.09397554397583,
+        "repetition": 14
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.1848294734954834,
+        "repetition": 15
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 5.7780561447143555,
+        "repetition": 16
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.3021817207336426,
+        "repetition": 17
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.312839984893799,
+        "repetition": 18
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.989309310913086,
+        "repetition": 19
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.319443941116333,
+        "repetition": 20
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.41642165184021,
+        "repetition": 21
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.4069132804870605,
+        "repetition": 22
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 2.1169846057891846,
+        "repetition": 23
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.1899747848510742,
+        "repetition": 24
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.2314960956573486,
+        "repetition": 25
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.4079382419586182,
+        "repetition": 26
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.7401046752929688,
+        "repetition": 27
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.5413298606872559,
+        "repetition": 28
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 1.2275102138519287,
+        "repetition": 29
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.169266939163208,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1535160541534424,
+        "repetition": 1
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.2138257026672363,
+        "repetition": 2
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.150723934173584,
+        "repetition": 3
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.139913558959961,
+        "repetition": 4
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1533229351043701,
+        "repetition": 5
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1583080291748047,
+        "repetition": 6
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.3652217388153076,
+        "repetition": 7
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.4990856647491455,
+        "repetition": 8
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.3590035438537598,
+        "repetition": 9
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1832866668701172,
+        "repetition": 10
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1628108024597168,
+        "repetition": 11
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.147017478942871,
+        "repetition": 12
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.183760404586792,
+        "repetition": 13
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1471705436706543,
+        "repetition": 14
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1676199436187744,
+        "repetition": 15
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1523761749267578,
+        "repetition": 16
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1306321620941162,
+        "repetition": 17
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1845972537994385,
+        "repetition": 18
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1528658866882324,
+        "repetition": 19
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1210334300994873,
+        "repetition": 20
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1243751049041748,
+        "repetition": 21
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1200752258300781,
+        "repetition": 22
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1350922584533691,
+        "repetition": 23
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.122455358505249,
+        "repetition": 24
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.108086109161377,
+        "repetition": 25
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1253280639648438,
+        "repetition": 26
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1032755374908447,
+        "repetition": 27
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.097947120666504,
+        "repetition": 28
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1118781566619873,
+        "repetition": 29
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6482400894165039,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6440515518188477,
+        "repetition": 1
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7103042602539062,
+        "repetition": 2
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6908321380615234,
+        "repetition": 3
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 1.3096826076507568,
+        "repetition": 4
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 1.075364351272583,
+        "repetition": 5
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.8441307544708252,
+        "repetition": 6
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7665550708770752,
+        "repetition": 7
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6927206516265869,
+        "repetition": 8
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.690549373626709,
+        "repetition": 9
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6822760105133057,
+        "repetition": 10
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6690487861633301,
+        "repetition": 11
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7343258857727051,
+        "repetition": 12
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.9739108085632324,
+        "repetition": 13
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6483621597290039,
+        "repetition": 14
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6667344570159912,
+        "repetition": 15
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7721686363220215,
+        "repetition": 16
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6564884185791016,
+        "repetition": 17
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.663172721862793,
+        "repetition": 18
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6535751819610596,
+        "repetition": 19
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6486349105834961,
+        "repetition": 20
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7792181968688965,
+        "repetition": 21
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.8480808734893799,
+        "repetition": 22
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7935054302215576,
+        "repetition": 23
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7918541431427002,
+        "repetition": 24
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6745808124542236,
+        "repetition": 25
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6694841384887695,
+        "repetition": 26
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6624038219451904,
+        "repetition": 27
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6892125606536865,
+        "repetition": 28
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6689860820770264,
+        "repetition": 29
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.628572940826416,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6315250396728516,
+        "repetition": 1
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6244668960571289,
+        "repetition": 2
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.7171783447265625,
+        "repetition": 3
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6446716785430908,
+        "repetition": 4
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6734762191772461,
+        "repetition": 5
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6297802925109863,
+        "repetition": 6
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.7481706142425537,
+        "repetition": 7
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.8304598331451416,
+        "repetition": 8
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.719501256942749,
+        "repetition": 9
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6259875297546387,
+        "repetition": 10
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6264684200286865,
+        "repetition": 11
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6365561485290527,
+        "repetition": 12
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6658494472503662,
+        "repetition": 13
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.631427526473999,
+        "repetition": 14
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6223361492156982,
+        "repetition": 15
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6193869113922119,
+        "repetition": 16
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6174991130828857,
+        "repetition": 17
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6224339008331299,
+        "repetition": 18
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6209657192230225,
+        "repetition": 19
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6560218334197998,
+        "repetition": 20
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6260278224945068,
+        "repetition": 21
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6277329921722412,
+        "repetition": 22
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.7447242736816406,
+        "repetition": 23
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6437551975250244,
+        "repetition": 24
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.7614872455596924,
+        "repetition": 25
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6734752655029297,
+        "repetition": 26
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6209862232208252,
+        "repetition": 27
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6259820461273193,
+        "repetition": 28
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.6228046417236328,
+        "repetition": 29
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.91508674621582,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.631942510604858,
+        "repetition": 1
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.8230531215667725,
+        "repetition": 2
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.593768835067749,
+        "repetition": 3
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.7701973915100098,
+        "repetition": 4
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.709328651428223,
+        "repetition": 5
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.676112174987793,
+        "repetition": 6
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.772106170654297,
+        "repetition": 7
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.367737293243408,
+        "repetition": 8
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.661646604537964,
+        "repetition": 9
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.835012435913086,
+        "repetition": 10
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.702559232711792,
+        "repetition": 11
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6584811210632324,
+        "repetition": 12
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 5.90389609336853,
+        "repetition": 13
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.599818229675293,
+        "repetition": 14
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.4693076610565186,
+        "repetition": 15
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.773400068283081,
+        "repetition": 16
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.7122440338134766,
+        "repetition": 17
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6620936393737793,
+        "repetition": 18
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.9970977306365967,
+        "repetition": 19
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.9282615184783936,
+        "repetition": 20
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6630818843841553,
+        "repetition": 21
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.1874096393585205,
+        "repetition": 22
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6265783309936523,
+        "repetition": 23
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.139089345932007,
+        "repetition": 24
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.7855312824249268,
+        "repetition": 25
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.010138511657715,
+        "repetition": 26
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6934194564819336,
+        "repetition": 27
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.636004686355591,
+        "repetition": 28
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 4.115953683853149,
+        "repetition": 29
+    }
+]
