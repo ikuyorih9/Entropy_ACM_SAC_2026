@@ -50,8 +50,7 @@ script = "execute_damicore.sh"
 output = ""
 params = [
     '--reps', '30',
-    '--output', 'clustering_results',
-    '--loads', 'OIL-MAMMO'
+    '--output', 'clustering_results'
 ]
 result = subprocess.run(['bash', script] + params, capture_output=False, text=True)
 

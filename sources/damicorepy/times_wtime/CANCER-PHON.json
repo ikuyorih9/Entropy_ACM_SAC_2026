@@ -3534,5 +3534,101 @@
         "time": 2.0371057987213135,
         "process_time": 0.13851559999999807,
         "output": "../../../results/1_clustering_results/CLUSTERS/CANCER-PHON/TRAIN/gzip/gzip_TRAIN_10.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ANOTHER-CONTROL",
+        "time": 1.3181166648864746,
+        "process_time": 0.5041235000000004,
+        "output": "../../../results/clustering_results/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.2638275623321533,
+        "process_time": 0.24299339999999958,
+        "output": "../../../results/clustering_results/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.1652500629425049,
+        "process_time": 0.17242420000000003,
+        "output": "../../../results/clustering_results/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.6074717044830322,
+        "process_time": 0.24048239999999943,
+        "output": "../../../results/clustering_results/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ANOTHER-CONTROL",
+        "time": 1.8979856967926025,
+        "process_time": 0.8244391000000002,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.0133376121520996,
+        "process_time": 0.11823680000000003,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.2859461307525635,
+        "process_time": 0.14238080000000064,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.3568735122680664,
+        "process_time": 0.1624055999999996,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.9164557456970215,
+        "process_time": 0.15348590000000062,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.8617985248565674,
+        "process_time": 0.1503787000000001,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.9166357517242432,
+        "process_time": 0.13661089999999998,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.7710044384002686,
+        "process_time": 0.1447547999999994,
+        "output": "../clusters_wtime/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_6.out"
     }
 ]

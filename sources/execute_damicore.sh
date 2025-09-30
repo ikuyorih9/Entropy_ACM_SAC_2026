@@ -38,6 +38,7 @@ for compressor in "${compressors[@]}"; do
     echo "🚀 Executando para compressor: $compressor"
     
     # Executando o script Python com o compressor e as flags adicionais
+    # python3 main.py "$compressor" "${extra_flags[@]}"
     python3 main.py "$compressor" "${extra_flags[@]}"
 
     echo "-----------------------------------"

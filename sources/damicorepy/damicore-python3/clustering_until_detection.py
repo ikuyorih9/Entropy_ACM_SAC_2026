@@ -249,8 +249,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Executa o DAMICORE com diversos parâmetros configuráveis.")
 
     # Argumento posicional obrigatório
-    parser.add_argument("compressor1", help="Primeiro compressor")
-    parser.add_argument("compressor2", help="Segundo compressor")
+    parser.add_argument("compressor", help="Nome do compressor")
 
     # Flags opcionais
     parser.add_argument("--serial", action="store_true", help="Executar em modo serial")
@@ -265,8 +264,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # Configuração de caminhos e tipo fictício (ajuste para o seu contexto)
-    compressor1 = args.compressor1
-    compressor2 = args.compressor2
+    compressor = args.compressor
     serial_flag = args.serial
     verbose_flag = args.verbose
     level_value = args.level
@@ -275,17 +273,14 @@ if __name__ == '__main__':
     repetition = args.reps
 
 
-    default_dir = '../original_data'
-    incremental_output = '../incremental_output'
+    default_dir = "../../../data/profiles/original_data"
+    incremental_output = "../../../results"
 
     selected_load = ['CANCER-PHON']
     # selected_type = ['API', 'MEMORY', 'PROCESS']
-    selected_type = ['API', 'CONC', 'LOGIC', 'MEMORY', 'MODEL', 'PROCESS', 'TRAIN', 'ANOTHER-CONTROL']
-    # selected_type = ['ANOTHER-CONTROL']
+    # selected_type = ['API', 'CONC', 'LOGIC', 'MEMORY', 'MODEL', 'PROCESS', 'TRAIN', 'ANOTHER-CONTROL']
+    selected_type = ['ANOTHER-CONTROL']
     compressors = ["zlib", "gzip", "bz2", "ppmd", "webp_lossless", "png", "jp2_lossless", "entropy", "webp_lossy", "jp2_lossy", "heif"]
-    
-    if(not compressor1 in compressors) or (not compressor2 in compressors):
-        exit()
 
     # Para cada load.
     for load in os.listdir(default_dir):
@@ -316,42 +311,38 @@ if __name__ == '__main__':
 
                 print(f"\n\033[33mLOAD: {load}")
                 print(f"TYPE: {type}")
-                
+                print(f"COMPRESSOR: {compressor}\n")
 
                 total_time = 0
                 for i in range(-1, len(profile_paths)):
-                    
                     if i != -1:
                         path = f"{type_dir}/{profile_paths[i]}"
                         copia_arquivo(path, "../sample_data")
                         print(f"\033[36mADICIONANDO {os.path.basename(path)} AOS GRUPOS\033[0m")
-                        compressor = compressor1 if i % 2 == 0 else compressor2
                     else:
                         print("\033[36mCONFIGURANDO AGRUPAMENTO DE CONTROLE...\033[0m")
-                        compressor = compressor1
-
-                    print(f"{i}: COMPRESSOR PAIR: {compressor}")       
-                    data = execute_damicore(
-                        compressor = compressor,
-                        type = type,
-                        output_cluster_dir = output_path,
-                        level = 9,
-                        order = 16,
-                        memory = 16,
-                        verbose=False,
-                        serial=serial_flag,
-                        file_number = i if i != -1 else "default"
-                    )
-                    total_time += data[0]['time']
-                    processing_time_to_json(data, f"../times_wtime/{load}.json")
-                    is_singular = verify_singular_group(data[0]["output"])
-                    if(is_singular):
-                        break
+                    if compressor in compressors:                    
+                        data = execute_damicore(
+                            compressor = compressor,
+                            type = type,
+                            output_cluster_dir = output_path,
+                            level = 9,
+                            order = 16,
+                            memory = 16,
+                            verbose=False,
+                            serial=serial_flag,
+                            file_number = i if i != -1 else "default"
+                        )
+                        total_time += data[0]['time']
+                        processing_time_to_json(data, f"../times_wtime/{load}.json")
+                        is_singular = verify_singular_group(data[0]["output"])
+                        if(is_singular):
+                            break
                 processing_time_to_json(
                     [{
-                        "load": f"{load}-{compressor1.upper()}-FIRST",
+                        "load": load,
                         "type": type,
-                        "compressor": f"{compressor1}/{compressor2}",
+                        "compressor": compressor,
                         "iteration": i if is_singular else -1,
                         "time": total_time,
                         "repetition": rep

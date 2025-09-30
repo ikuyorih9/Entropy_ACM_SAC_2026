@@ -3646,5 +3646,29 @@
         "time": 3.0136380195617676,
         "process_time": 0.17406330000000025,
         "output": "../../../results/1_clustering_results/CLUSTERS/BANK-PIMA/TRAIN/gzip/gzip_TRAIN_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ANOTHER-CONTROL",
+        "time": 1.4827885627746582,
+        "process_time": 0.2461420000000003,
+        "output": "../../../results/results/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.1378841400146484,
+        "process_time": 0.16668379999999994,
+        "output": "../../../results/results/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.0329039096832275,
+        "process_time": 0.11203170000000018,
+        "output": "../../../results/results/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_1.out"
     }
 ]
