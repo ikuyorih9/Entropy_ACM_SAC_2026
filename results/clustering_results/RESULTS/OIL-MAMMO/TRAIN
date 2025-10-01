@@ -4,7 +4,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.5865421295166016,
+        "time": 0.4269859790802002,
         "repetition": 0
     },
     {
@@ -12,7 +12,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.521761417388916,
+        "time": 0.42764735221862793,
         "repetition": 1
     },
     {
@@ -20,7 +20,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.5043148994445801,
+        "time": 0.4364204406738281,
         "repetition": 2
     },
     {
@@ -28,7 +28,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.5114743709564209,
+        "time": 0.4382200241088867,
         "repetition": 3
     },
     {
@@ -36,7 +36,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.5118639469146729,
+        "time": 0.427351713180542,
         "repetition": 4
     },
     {
@@ -44,7 +44,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.5084502696990967,
+        "time": 0.43316650390625,
         "repetition": 5
     },
     {
@@ -52,7 +52,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.5117475986480713,
+        "time": 0.42578959465026855,
         "repetition": 6
     },
     {
@@ -60,7 +60,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.49320411682128906,
+        "time": 0.43990540504455566,
         "repetition": 7
     },
     {
@@ -68,7 +68,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.5429525375366211,
+        "time": 0.6460435390472412,
         "repetition": 8
     },
     {
@@ -76,7 +76,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8406352996826172,
+        "time": 0.4551734924316406,
         "repetition": 9
     },
     {
@@ -84,7 +84,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6367208957672119,
+        "time": 0.43076038360595703,
         "repetition": 10
     },
     {
@@ -92,7 +92,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.6557230949401855,
+        "time": 0.43089938163757324,
         "repetition": 11
     },
     {
@@ -100,7 +100,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.4427158832550049,
+        "time": 0.42265892028808594,
         "repetition": 12
     },
     {
@@ -108,7 +108,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.9512248039245605,
+        "time": 0.4284842014312744,
         "repetition": 13
     },
     {
@@ -116,7 +116,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.09397554397583,
+        "time": 0.4367690086364746,
         "repetition": 14
     },
     {
@@ -124,7 +124,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.1848294734954834,
+        "time": 0.43026256561279297,
         "repetition": 15
     },
     {
@@ -132,7 +132,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 5.7780561447143555,
+        "time": 0.5601561069488525,
         "repetition": 16
     },
     {
@@ -140,7 +140,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.3021817207336426,
+        "time": 0.4526839256286621,
         "repetition": 17
     },
     {
@@ -148,7 +148,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.312839984893799,
+        "time": 0.5051634311676025,
         "repetition": 18
     },
     {
@@ -156,7 +156,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.989309310913086,
+        "time": 0.45482301712036133,
         "repetition": 19
     },
     {
@@ -164,7 +164,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.319443941116333,
+        "time": 0.425342321395874,
         "repetition": 20
     },
     {
@@ -172,7 +172,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.41642165184021,
+        "time": 0.436626672744751,
         "repetition": 21
     },
     {
@@ -180,7 +180,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.4069132804870605,
+        "time": 0.4776921272277832,
         "repetition": 22
     },
     {
@@ -188,7 +188,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.1169846057891846,
+        "time": 0.7078742980957031,
         "repetition": 23
     },
     {
@@ -196,7 +196,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.1899747848510742,
+        "time": 0.5164687633514404,
         "repetition": 24
     },
     {
@@ -204,7 +204,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.2314960956573486,
+        "time": 0.6349265575408936,
         "repetition": 25
     },
     {
@@ -212,7 +212,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.4079382419586182,
+        "time": 0.6041994094848633,
         "repetition": 26
     },
     {
@@ -220,7 +220,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.7401046752929688,
+        "time": 0.7493648529052734,
         "repetition": 27
     },
     {
@@ -228,7 +228,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.5413298606872559,
+        "time": 0.5945723056793213,
         "repetition": 28
     },
     {
@@ -236,7 +236,7 @@
         "type": "TRAIN",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.2275102138519287,
+        "time": 0.6129002571105957,
         "repetition": 29
     },
     {
@@ -244,7 +244,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.169266939163208,
+        "time": 1.098395586013794,
         "repetition": 0
     },
     {
@@ -252,7 +252,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1535160541534424,
+        "time": 1.142547369003296,
         "repetition": 1
     },
     {
@@ -260,7 +260,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.2138257026672363,
+        "time": 1.0063393115997314,
         "repetition": 2
     },
     {
@@ -268,7 +268,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.150723934173584,
+        "time": 0.9878406524658203,
         "repetition": 3
     },
     {
@@ -276,7 +276,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.139913558959961,
+        "time": 0.9893405437469482,
         "repetition": 4
     },
     {
@@ -284,7 +284,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1533229351043701,
+        "time": 1.0249049663543701,
         "repetition": 5
     },
     {
@@ -292,7 +292,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1583080291748047,
+        "time": 0.9877259731292725,
         "repetition": 6
     },
     {
@@ -300,7 +300,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.3652217388153076,
+        "time": 1.0227224826812744,
         "repetition": 7
     },
     {
@@ -308,7 +308,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.4990856647491455,
+        "time": 1.0094561576843262,
         "repetition": 8
     },
     {
@@ -316,7 +316,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.3590035438537598,
+        "time": 0.9923522472381592,
         "repetition": 9
     },
     {
@@ -324,7 +324,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1832866668701172,
+        "time": 0.9807136058807373,
         "repetition": 10
     },
     {
@@ -332,7 +332,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1628108024597168,
+        "time": 1.0267746448516846,
         "repetition": 11
     },
     {
@@ -340,7 +340,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.147017478942871,
+        "time": 1.067065954208374,
         "repetition": 12
     },
     {
@@ -348,7 +348,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.183760404586792,
+        "time": 1.1671714782714844,
         "repetition": 13
     },
     {
@@ -356,7 +356,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1471705436706543,
+        "time": 0.9888029098510742,
         "repetition": 14
     },
     {
@@ -364,7 +364,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1676199436187744,
+        "time": 0.9868416786193848,
         "repetition": 15
     },
     {
@@ -372,7 +372,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1523761749267578,
+        "time": 0.9806065559387207,
         "repetition": 16
     },
     {
@@ -380,7 +380,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1306321620941162,
+        "time": 0.9885072708129883,
         "repetition": 17
     },
     {
@@ -388,7 +388,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1845972537994385,
+        "time": 0.9751434326171875,
         "repetition": 18
     },
     {
@@ -396,7 +396,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1528658866882324,
+        "time": 0.9843344688415527,
         "repetition": 19
     },
     {
@@ -404,7 +404,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1210334300994873,
+        "time": 0.9844584465026855,
         "repetition": 20
     },
     {
@@ -412,7 +412,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1243751049041748,
+        "time": 0.9781105518341064,
         "repetition": 21
     },
     {
@@ -420,7 +420,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1200752258300781,
+        "time": 1.0319714546203613,
         "repetition": 22
     },
     {
@@ -428,7 +428,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1350922584533691,
+        "time": 0.9705581665039062,
         "repetition": 23
     },
     {
@@ -436,7 +436,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.122455358505249,
+        "time": 0.9766788482666016,
         "repetition": 24
     },
     {
@@ -444,7 +444,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.108086109161377,
+        "time": 1.068671464920044,
         "repetition": 25
     },
     {
@@ -452,7 +452,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1253280639648438,
+        "time": 1.0427346229553223,
         "repetition": 26
     },
     {
@@ -460,7 +460,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1032755374908447,
+        "time": 0.9857761859893799,
         "repetition": 27
     },
     {
@@ -468,7 +468,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.097947120666504,
+        "time": 1.0077245235443115,
         "repetition": 28
     },
     {
@@ -476,7 +476,7 @@
         "type": "TRAIN",
         "compressor": "gzip",
         "iteration": 3,
-        "time": 1.1118781566619873,
+        "time": 0.9706971645355225,
         "repetition": 29
     },
     {
@@ -484,7 +484,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6482400894165039,
+        "time": 0.5835475921630859,
         "repetition": 0
     },
     {
@@ -492,7 +492,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6440515518188477,
+        "time": 0.5823094844818115,
         "repetition": 1
     },
     {
@@ -500,7 +500,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7103042602539062,
+        "time": 0.5766737461090088,
         "repetition": 2
     },
     {
@@ -508,7 +508,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6908321380615234,
+        "time": 0.5793108940124512,
         "repetition": 3
     },
     {
@@ -516,7 +516,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 1.3096826076507568,
+        "time": 0.5878782272338867,
         "repetition": 4
     },
     {
@@ -524,7 +524,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 1.075364351272583,
+        "time": 0.5960948467254639,
         "repetition": 5
     },
     {
@@ -532,7 +532,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.8441307544708252,
+        "time": 0.5769252777099609,
         "repetition": 6
     },
     {
@@ -540,7 +540,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7665550708770752,
+        "time": 0.5967972278594971,
         "repetition": 7
     },
     {
@@ -548,7 +548,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6927206516265869,
+        "time": 0.5894784927368164,
         "repetition": 8
     },
     {
@@ -556,7 +556,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.690549373626709,
+        "time": 0.5931735038757324,
         "repetition": 9
     },
     {
@@ -564,7 +564,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6822760105133057,
+        "time": 0.5764501094818115,
         "repetition": 10
     },
     {
@@ -572,7 +572,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6690487861633301,
+        "time": 0.5871937274932861,
         "repetition": 11
     },
     {
@@ -580,7 +580,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7343258857727051,
+        "time": 0.5849151611328125,
         "repetition": 12
     },
     {
@@ -588,7 +588,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.9739108085632324,
+        "time": 0.5728492736816406,
         "repetition": 13
     },
     {
@@ -596,7 +596,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6483621597290039,
+        "time": 0.5778238773345947,
         "repetition": 14
     },
     {
@@ -604,7 +604,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6667344570159912,
+        "time": 0.578359842300415,
         "repetition": 15
     },
     {
@@ -612,7 +612,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7721686363220215,
+        "time": 0.5813205242156982,
         "repetition": 16
     },
     {
@@ -620,7 +620,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6564884185791016,
+        "time": 0.5816526412963867,
         "repetition": 17
     },
     {
@@ -628,7 +628,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.663172721862793,
+        "time": 0.5793492794036865,
         "repetition": 18
     },
     {
@@ -636,7 +636,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6535751819610596,
+        "time": 0.5801517963409424,
         "repetition": 19
     },
     {
@@ -644,7 +644,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6486349105834961,
+        "time": 0.5841717720031738,
         "repetition": 20
     },
     {
@@ -652,7 +652,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7792181968688965,
+        "time": 0.581068754196167,
         "repetition": 21
     },
     {
@@ -660,7 +660,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.8480808734893799,
+        "time": 0.581240177154541,
         "repetition": 22
     },
     {
@@ -668,7 +668,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7935054302215576,
+        "time": 0.5900418758392334,
         "repetition": 23
     },
     {
@@ -676,7 +676,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7918541431427002,
+        "time": 0.6007153987884521,
         "repetition": 24
     },
     {
@@ -684,7 +684,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6745808124542236,
+        "time": 0.6014199256896973,
         "repetition": 25
     },
     {
@@ -692,7 +692,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6694841384887695,
+        "time": 0.5819559097290039,
         "repetition": 26
     },
     {
@@ -700,7 +700,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6624038219451904,
+        "time": 0.5878641605377197,
         "repetition": 27
     },
     {
@@ -708,7 +708,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6892125606536865,
+        "time": 0.5752086639404297,
         "repetition": 28
     },
     {
@@ -716,7 +716,7 @@
         "type": "TRAIN",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6689860820770264,
+        "time": 0.5811038017272949,
         "repetition": 29
     },
     {
@@ -724,7 +724,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.628572940826416,
+        "time": 0.5768516063690186,
         "repetition": 0
     },
     {
@@ -732,7 +732,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6315250396728516,
+        "time": 0.579688549041748,
         "repetition": 1
     },
     {
@@ -740,7 +740,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6244668960571289,
+        "time": 0.6463260650634766,
         "repetition": 2
     },
     {
@@ -748,7 +748,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7171783447265625,
+        "time": 0.5860800743103027,
         "repetition": 3
     },
     {
@@ -756,7 +756,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6446716785430908,
+        "time": 0.5790128707885742,
         "repetition": 4
     },
     {
@@ -764,7 +764,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6734762191772461,
+        "time": 0.5819864273071289,
         "repetition": 5
     },
     {
@@ -772,7 +772,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6297802925109863,
+        "time": 0.5791792869567871,
         "repetition": 6
     },
     {
@@ -780,7 +780,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7481706142425537,
+        "time": 0.586700439453125,
         "repetition": 7
     },
     {
@@ -788,7 +788,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.8304598331451416,
+        "time": 0.5700473785400391,
         "repetition": 8
     },
     {
@@ -796,7 +796,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.719501256942749,
+        "time": 0.5911135673522949,
         "repetition": 9
     },
     {
@@ -804,7 +804,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6259875297546387,
+        "time": 0.5885381698608398,
         "repetition": 10
     },
     {
@@ -812,7 +812,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6264684200286865,
+        "time": 0.5992169380187988,
         "repetition": 11
     },
     {
@@ -820,7 +820,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6365561485290527,
+        "time": 0.6443345546722412,
         "repetition": 12
     },
     {
@@ -828,7 +828,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6658494472503662,
+        "time": 0.5836589336395264,
         "repetition": 13
     },
     {
@@ -836,7 +836,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.631427526473999,
+        "time": 0.5826165676116943,
         "repetition": 14
     },
     {
@@ -844,7 +844,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6223361492156982,
+        "time": 0.5743930339813232,
         "repetition": 15
     },
     {
@@ -852,7 +852,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6193869113922119,
+        "time": 0.5724117755889893,
         "repetition": 16
     },
     {
@@ -860,7 +860,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6174991130828857,
+        "time": 0.5803942680358887,
         "repetition": 17
     },
     {
@@ -868,7 +868,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6224339008331299,
+        "time": 0.5893039703369141,
         "repetition": 18
     },
     {
@@ -876,7 +876,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6209657192230225,
+        "time": 0.5820260047912598,
         "repetition": 19
     },
     {
@@ -884,7 +884,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6560218334197998,
+        "time": 0.5746567249298096,
         "repetition": 20
     },
     {
@@ -892,7 +892,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6260278224945068,
+        "time": 0.5974199771881104,
         "repetition": 21
     },
     {
@@ -900,7 +900,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6277329921722412,
+        "time": 0.5822646617889404,
         "repetition": 22
     },
     {
@@ -908,7 +908,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7447242736816406,
+        "time": 0.6297342777252197,
         "repetition": 23
     },
     {
@@ -916,7 +916,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6437551975250244,
+        "time": 0.5896997451782227,
         "repetition": 24
     },
     {
@@ -924,7 +924,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7614872455596924,
+        "time": 0.5800516605377197,
         "repetition": 25
     },
     {
@@ -932,7 +932,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6734752655029297,
+        "time": 0.5936248302459717,
         "repetition": 26
     },
     {
@@ -940,7 +940,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6209862232208252,
+        "time": 0.5857031345367432,
         "repetition": 27
     },
     {
@@ -948,7 +948,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6259820461273193,
+        "time": 0.5980377197265625,
         "repetition": 28
     },
     {
@@ -956,7 +956,7 @@
         "type": "TRAIN",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6228046417236328,
+        "time": 0.7109050750732422,
         "repetition": 29
     },
     {
@@ -964,7 +964,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.91508674621582,
+        "time": 3.4228603839874268,
         "repetition": 0
     },
     {
@@ -972,7 +972,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.631942510604858,
+        "time": 3.375013828277588,
         "repetition": 1
     },
     {
@@ -980,7 +980,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.8230531215667725,
+        "time": 3.439774513244629,
         "repetition": 2
     },
     {
@@ -988,7 +988,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.593768835067749,
+        "time": 3.3594768047332764,
         "repetition": 3
     },
     {
@@ -996,7 +996,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.7701973915100098,
+        "time": 3.3827905654907227,
         "repetition": 4
     },
     {
@@ -1004,7 +1004,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.709328651428223,
+        "time": 3.4141509532928467,
         "repetition": 5
     },
     {
@@ -1012,7 +1012,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.676112174987793,
+        "time": 3.4312100410461426,
         "repetition": 6
     },
     {
@@ -1020,7 +1020,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.772106170654297,
+        "time": 3.387101888656616,
         "repetition": 7
     },
     {
@@ -1028,7 +1028,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.367737293243408,
+        "time": 3.407919406890869,
         "repetition": 8
     },
     {
@@ -1036,7 +1036,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.661646604537964,
+        "time": 3.3878870010375977,
         "repetition": 9
     },
     {
@@ -1044,7 +1044,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.835012435913086,
+        "time": 3.5299012660980225,
         "repetition": 10
     },
     {
@@ -1052,7 +1052,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.702559232711792,
+        "time": 3.408568859100342,
         "repetition": 11
     },
     {
@@ -1060,7 +1060,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.6584811210632324,
+        "time": 3.417219400405884,
         "repetition": 12
     },
     {
@@ -1068,7 +1068,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 5.90389609336853,
+        "time": 3.385686159133911,
         "repetition": 13
     },
     {
@@ -1076,7 +1076,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.599818229675293,
+        "time": 3.4068186283111572,
         "repetition": 14
     },
     {
@@ -1084,7 +1084,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.4693076610565186,
+        "time": 3.427368640899658,
         "repetition": 15
     },
     {
@@ -1092,7 +1092,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.773400068283081,
+        "time": 3.425605297088623,
         "repetition": 16
     },
     {
@@ -1100,7 +1100,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.7122440338134766,
+        "time": 3.4656920433044434,
         "repetition": 17
     },
     {
@@ -1108,7 +1108,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.6620936393737793,
+        "time": 3.4169728755950928,
         "repetition": 18
     },
     {
@@ -1116,7 +1116,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.9970977306365967,
+        "time": 3.4144442081451416,
         "repetition": 19
     },
     {
@@ -1124,7 +1124,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.9282615184783936,
+        "time": 3.4774367809295654,
         "repetition": 20
     },
     {
@@ -1132,7 +1132,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.6630818843841553,
+        "time": 3.4151229858398438,
         "repetition": 21
     },
     {
@@ -1140,7 +1140,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.1874096393585205,
+        "time": 3.4893693923950195,
         "repetition": 22
     },
     {
@@ -1148,7 +1148,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.6265783309936523,
+        "time": 3.4367120265960693,
         "repetition": 23
     },
     {
@@ -1156,7 +1156,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.139089345932007,
+        "time": 3.393332004547119,
         "repetition": 24
     },
     {
@@ -1164,7 +1164,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.7855312824249268,
+        "time": 3.3952231407165527,
         "repetition": 25
     },
     {
@@ -1172,7 +1172,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.010138511657715,
+        "time": 3.384202718734741,
         "repetition": 26
     },
     {
@@ -1180,7 +1180,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.6934194564819336,
+        "time": 3.394787073135376,
         "repetition": 27
     },
     {
@@ -1188,7 +1188,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 3.636004686355591,
+        "time": 3.3788681030273438,
         "repetition": 28
     },
     {
@@ -1196,7 +1196,7 @@
         "type": "TRAIN",
         "compressor": "entropy",
         "iteration": 22,
-        "time": 4.115953683853149,
+        "time": 3.377500534057617,
         "repetition": 29
     }
 ]

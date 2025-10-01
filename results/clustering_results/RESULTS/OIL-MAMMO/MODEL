@@ -4,7 +4,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7480082511901855,
+        "time": 0.5610086917877197,
         "repetition": 0
     },
     {
@@ -12,7 +12,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7830841541290283,
+        "time": 0.5680720806121826,
         "repetition": 1
     },
     {
@@ -20,7 +20,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.883678674697876,
+        "time": 0.4939098358154297,
         "repetition": 2
     },
     {
@@ -28,7 +28,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8009583950042725,
+        "time": 0.44820451736450195,
         "repetition": 3
     },
     {
@@ -36,7 +36,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8709452152252197,
+        "time": 0.4928455352783203,
         "repetition": 4
     },
     {
@@ -44,7 +44,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.065413236618042,
+        "time": 0.610365629196167,
         "repetition": 5
     },
     {
@@ -52,7 +52,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6639807224273682,
+        "time": 0.6041126251220703,
         "repetition": 6
     },
     {
@@ -60,7 +60,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7300500869750977,
+        "time": 0.5392420291900635,
         "repetition": 7
     },
     {
@@ -68,7 +68,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6738278865814209,
+        "time": 0.47630977630615234,
         "repetition": 8
     },
     {
@@ -76,7 +76,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6955068111419678,
+        "time": 0.519075870513916,
         "repetition": 9
     },
     {
@@ -84,7 +84,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6481091976165771,
+        "time": 0.7182149887084961,
         "repetition": 10
     },
     {
@@ -92,7 +92,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6591920852661133,
+        "time": 0.4692516326904297,
         "repetition": 11
     },
     {
@@ -100,7 +100,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7181718349456787,
+        "time": 0.4438610076904297,
         "repetition": 12
     },
     {
@@ -108,7 +108,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.149275541305542,
+        "time": 0.44292545318603516,
         "repetition": 13
     },
     {
@@ -116,7 +116,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.9903221130371094,
+        "time": 0.4730098247528076,
         "repetition": 14
     },
     {
@@ -124,7 +124,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.651512622833252,
+        "time": 0.4529905319213867,
         "repetition": 15
     },
     {
@@ -132,7 +132,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.618401288986206,
+        "time": 0.43230342864990234,
         "repetition": 16
     },
     {
@@ -140,7 +140,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7268362045288086,
+        "time": 0.4249606132507324,
         "repetition": 17
     },
     {
@@ -148,7 +148,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6728589534759521,
+        "time": 0.4272177219390869,
         "repetition": 18
     },
     {
@@ -156,7 +156,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6378173828125,
+        "time": 0.4305744171142578,
         "repetition": 19
     },
     {
@@ -164,7 +164,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6543393135070801,
+        "time": 0.42765092849731445,
         "repetition": 20
     },
     {
@@ -172,7 +172,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.638131856918335,
+        "time": 0.43027710914611816,
         "repetition": 21
     },
     {
@@ -180,7 +180,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6900105476379395,
+        "time": 0.5345890522003174,
         "repetition": 22
     },
     {
@@ -188,7 +188,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6170656681060791,
+        "time": 0.6367497444152832,
         "repetition": 23
     },
     {
@@ -196,7 +196,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6021485328674316,
+        "time": 0.4342610836029053,
         "repetition": 24
     },
     {
@@ -204,7 +204,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6075112819671631,
+        "time": 0.4379613399505615,
         "repetition": 25
     },
     {
@@ -212,7 +212,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6958613395690918,
+        "time": 0.4277770519256592,
         "repetition": 26
     },
     {
@@ -220,7 +220,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6010119915008545,
+        "time": 0.4377775192260742,
         "repetition": 27
     },
     {
@@ -228,7 +228,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.6186630725860596,
+        "time": 0.44197535514831543,
         "repetition": 28
     },
     {
@@ -236,7 +236,7 @@
         "type": "MODEL",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7225816249847412,
+        "time": 0.4258434772491455,
         "repetition": 29
     },
     {
@@ -244,7 +244,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.557730436325073,
+        "time": 5.455580234527588,
         "repetition": 0
     },
     {
@@ -252,7 +252,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.811613321304321,
+        "time": 5.5243799686431885,
         "repetition": 1
     },
     {
@@ -260,7 +260,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.606663227081299,
+        "time": 5.688167333602905,
         "repetition": 2
     },
     {
@@ -268,7 +268,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.721462726593018,
+        "time": 5.506412744522095,
         "repetition": 3
     },
     {
@@ -276,7 +276,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.4900524616241455,
+        "time": 5.456611156463623,
         "repetition": 4
     },
     {
@@ -284,7 +284,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.454423904418945,
+        "time": 5.460128545761108,
         "repetition": 5
     },
     {
@@ -292,7 +292,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.575570344924927,
+        "time": 5.43279767036438,
         "repetition": 6
     },
     {
@@ -300,7 +300,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.079428672790527,
+        "time": 5.4411962032318115,
         "repetition": 7
     },
     {
@@ -308,7 +308,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.243851184844971,
+        "time": 5.728741645812988,
         "repetition": 8
     },
     {
@@ -316,7 +316,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.445835828781128,
+        "time": 5.656513214111328,
         "repetition": 9
     },
     {
@@ -324,7 +324,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.647378444671631,
+        "time": 5.495132684707642,
         "repetition": 10
     },
     {
@@ -332,7 +332,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 9.066736221313477,
+        "time": 5.740778923034668,
         "repetition": 11
     },
     {
@@ -340,7 +340,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 8.759126424789429,
+        "time": 5.577646970748901,
         "repetition": 12
     },
     {
@@ -348,7 +348,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.538807153701782,
+        "time": 5.744668006896973,
         "repetition": 13
     },
     {
@@ -356,7 +356,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.796184539794922,
+        "time": 5.480273246765137,
         "repetition": 14
     },
     {
@@ -364,7 +364,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 7.1781299114227295,
+        "time": 5.487702369689941,
         "repetition": 15
     },
     {
@@ -372,7 +372,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.456754446029663,
+        "time": 5.531094551086426,
         "repetition": 16
     },
     {
@@ -380,7 +380,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.938798666000366,
+        "time": 5.4181458950042725,
         "repetition": 17
     },
     {
@@ -388,7 +388,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.848645210266113,
+        "time": 5.514081001281738,
         "repetition": 18
     },
     {
@@ -396,7 +396,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.693559885025024,
+        "time": 5.439220190048218,
         "repetition": 19
     },
     {
@@ -404,7 +404,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.765323162078857,
+        "time": 5.392132043838501,
         "repetition": 20
     },
     {
@@ -412,7 +412,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.516508102416992,
+        "time": 5.397781133651733,
         "repetition": 21
     },
     {
@@ -420,7 +420,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.224668502807617,
+        "time": 5.411174535751343,
         "repetition": 22
     },
     {
@@ -428,7 +428,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.535047769546509,
+        "time": 5.544223070144653,
         "repetition": 23
     },
     {
@@ -436,7 +436,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.852658271789551,
+        "time": 5.4551002979278564,
         "repetition": 24
     },
     {
@@ -444,7 +444,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.911580562591553,
+        "time": 5.535722255706787,
         "repetition": 25
     },
     {
@@ -452,7 +452,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.33726167678833,
+        "time": 5.498114109039307,
         "repetition": 26
     },
     {
@@ -460,7 +460,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.44658088684082,
+        "time": 5.457985162734985,
         "repetition": 27
     },
     {
@@ -468,7 +468,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.264519691467285,
+        "time": 5.542701482772827,
         "repetition": 28
     },
     {
@@ -476,7 +476,7 @@
         "type": "MODEL",
         "compressor": "gzip",
         "iteration": 18,
-        "time": 6.685061693191528,
+        "time": 5.493234872817993,
         "repetition": 29
     },
     {
@@ -484,7 +484,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.531947135925293,
+        "time": 1.876004695892334,
         "repetition": 0
     },
     {
@@ -492,7 +492,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1711621284484863,
+        "time": 1.89565110206604,
         "repetition": 1
     },
     {
@@ -500,7 +500,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 3.38318133354187,
+        "time": 1.9170033931732178,
         "repetition": 2
     },
     {
@@ -508,7 +508,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.143381357192993,
+        "time": 1.9123945236206055,
         "repetition": 3
     },
     {
@@ -516,7 +516,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1122899055480957,
+        "time": 1.8843979835510254,
         "repetition": 4
     },
     {
@@ -524,7 +524,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1096458435058594,
+        "time": 1.9072494506835938,
         "repetition": 5
     },
     {
@@ -532,7 +532,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.0761959552764893,
+        "time": 1.886601209640503,
         "repetition": 6
     },
     {
@@ -540,7 +540,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.180938720703125,
+        "time": 1.879241704940796,
         "repetition": 7
     },
     {
@@ -548,7 +548,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.648787021636963,
+        "time": 1.8841869831085205,
         "repetition": 8
     },
     {
@@ -556,7 +556,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.13167142868042,
+        "time": 1.9162402153015137,
         "repetition": 9
     },
     {
@@ -564,7 +564,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1037471294403076,
+        "time": 1.9539971351623535,
         "repetition": 10
     },
     {
@@ -572,7 +572,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.0891990661621094,
+        "time": 1.9947896003723145,
         "repetition": 11
     },
     {
@@ -580,7 +580,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.110755443572998,
+        "time": 1.9295659065246582,
         "repetition": 12
     },
     {
@@ -588,7 +588,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.6419854164123535,
+        "time": 1.931123971939087,
         "repetition": 13
     },
     {
@@ -596,7 +596,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.5423436164855957,
+        "time": 1.9116137027740479,
         "repetition": 14
     },
     {
@@ -604,7 +604,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1092677116394043,
+        "time": 1.8958561420440674,
         "repetition": 15
     },
     {
@@ -612,7 +612,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.0455503463745117,
+        "time": 1.8937556743621826,
         "repetition": 16
     },
     {
@@ -620,7 +620,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.0831916332244873,
+        "time": 1.8923404216766357,
         "repetition": 17
     },
     {
@@ -628,7 +628,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.0528714656829834,
+        "time": 1.918257236480713,
         "repetition": 18
     },
     {
@@ -636,7 +636,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1412341594696045,
+        "time": 1.8842792510986328,
         "repetition": 19
     },
     {
@@ -644,7 +644,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.157301902770996,
+        "time": 1.87734055519104,
         "repetition": 20
     },
     {
@@ -652,7 +652,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1603198051452637,
+        "time": 1.9540109634399414,
         "repetition": 21
     },
     {
@@ -660,7 +660,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.126746654510498,
+        "time": 1.8841784000396729,
         "repetition": 22
     },
     {
@@ -668,7 +668,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.1144838333129883,
+        "time": 1.9164056777954102,
         "repetition": 23
     },
     {
@@ -676,7 +676,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.3033628463745117,
+        "time": 1.942265272140503,
         "repetition": 24
     },
     {
@@ -684,7 +684,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.2284021377563477,
+        "time": 1.9010677337646484,
         "repetition": 25
     },
     {
@@ -692,7 +692,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.0781962871551514,
+        "time": 1.8869714736938477,
         "repetition": 26
     },
     {
@@ -700,7 +700,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.2702159881591797,
+        "time": 1.8834083080291748,
         "repetition": 27
     },
     {
@@ -708,7 +708,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.3514511585235596,
+        "time": 1.8973822593688965,
         "repetition": 28
     },
     {
@@ -716,7 +716,7 @@
         "type": "MODEL",
         "compressor": "bz2",
         "iteration": 12,
-        "time": 2.3301167488098145,
+        "time": 1.8570735454559326,
         "repetition": 29
     },
     {
@@ -724,7 +724,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 4.853954792022705,
+        "time": 2.4301116466522217,
         "repetition": 0
     },
     {
@@ -732,7 +732,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 4.7827277183532715,
+        "time": 2.4376299381256104,
         "repetition": 1
     },
     {
@@ -740,7 +740,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.544661045074463,
+        "time": 2.4356842041015625,
         "repetition": 2
     },
     {
@@ -748,7 +748,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 6.540326118469238,
+        "time": 2.442643165588379,
         "repetition": 3
     },
     {
@@ -756,7 +756,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.6121761798858643,
+        "time": 2.456486225128174,
         "repetition": 4
     },
     {
@@ -764,7 +764,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 4.64507794380188,
+        "time": 2.6025655269622803,
         "repetition": 5
     },
     {
@@ -772,7 +772,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 6.033324241638184,
+        "time": 2.428736448287964,
         "repetition": 6
     },
     {
@@ -780,7 +780,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.948218584060669,
+        "time": 2.425410270690918,
         "repetition": 7
     },
     {
@@ -788,7 +788,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.8991241455078125,
+        "time": 2.43351674079895,
         "repetition": 8
     },
     {
@@ -796,7 +796,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 4.982296705245972,
+        "time": 2.4719436168670654,
         "repetition": 9
     },
     {
@@ -804,7 +804,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.4070701599121094,
+        "time": 2.433821439743042,
         "repetition": 10
     },
     {
@@ -812,7 +812,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.7364306449890137,
+        "time": 2.429080009460449,
         "repetition": 11
     },
     {
@@ -820,7 +820,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.668626070022583,
+        "time": 2.432220220565796,
         "repetition": 12
     },
     {
@@ -828,7 +828,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.3672001361846924,
+        "time": 2.600267171859741,
         "repetition": 13
     },
     {
@@ -836,7 +836,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 5.029026508331299,
+        "time": 2.4746406078338623,
         "repetition": 14
     },
     {
@@ -844,7 +844,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.479806423187256,
+        "time": 2.461505174636841,
         "repetition": 15
     },
     {
@@ -852,7 +852,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.663451910018921,
+        "time": 2.4260942935943604,
         "repetition": 16
     },
     {
@@ -860,7 +860,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.0906386375427246,
+        "time": 2.4492385387420654,
         "repetition": 17
     },
     {
@@ -868,7 +868,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.5364856719970703,
+        "time": 2.443056344985962,
         "repetition": 18
     },
     {
@@ -876,7 +876,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.5039925575256348,
+        "time": 2.4409592151641846,
         "repetition": 19
     },
     {
@@ -884,7 +884,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.663655996322632,
+        "time": 2.4291372299194336,
         "repetition": 20
     },
     {
@@ -892,7 +892,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.3190243244171143,
+        "time": 2.4428274631500244,
         "repetition": 21
     },
     {
@@ -900,7 +900,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 2.9893229007720947,
+        "time": 2.47170352935791,
         "repetition": 22
     },
     {
@@ -908,7 +908,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.488067388534546,
+        "time": 2.492096185684204,
         "repetition": 23
     },
     {
@@ -916,7 +916,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 10.726663589477539,
+        "time": 2.468928813934326,
         "repetition": 24
     },
     {
@@ -924,7 +924,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.5795278549194336,
+        "time": 2.5316572189331055,
         "repetition": 25
     },
     {
@@ -932,7 +932,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.4429373741149902,
+        "time": 2.4540629386901855,
         "repetition": 26
     },
     {
@@ -940,7 +940,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 6.1235671043396,
+        "time": 2.4925577640533447,
         "repetition": 27
     },
     {
@@ -948,7 +948,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 3.4594337940216064,
+        "time": 2.462287664413452,
         "repetition": 28
     },
     {
@@ -956,7 +956,7 @@
         "type": "MODEL",
         "compressor": "ppmd",
         "iteration": 15,
-        "time": 2.854315757751465,
+        "time": 2.4757044315338135,
         "repetition": 29
     },
     {
@@ -964,7 +964,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.1542532444000244,
+        "time": 0.9932618141174316,
         "repetition": 0
     },
     {
@@ -972,7 +972,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0642344951629639,
+        "time": 0.9926559925079346,
         "repetition": 1
     },
     {
@@ -980,7 +980,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.1433022022247314,
+        "time": 0.9982972145080566,
         "repetition": 2
     },
     {
@@ -988,7 +988,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.4031682014465332,
+        "time": 0.9792382717132568,
         "repetition": 3
     },
     {
@@ -996,7 +996,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.2425780296325684,
+        "time": 0.9902298450469971,
         "repetition": 4
     },
     {
@@ -1004,7 +1004,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0347225666046143,
+        "time": 0.984208345413208,
         "repetition": 5
     },
     {
@@ -1012,7 +1012,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.048086166381836,
+        "time": 0.9839293956756592,
         "repetition": 6
     },
     {
@@ -1020,7 +1020,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0945119857788086,
+        "time": 1.0210044384002686,
         "repetition": 7
     },
     {
@@ -1028,7 +1028,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.097825050354004,
+        "time": 1.009819507598877,
         "repetition": 8
     },
     {
@@ -1036,7 +1036,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0255987644195557,
+        "time": 0.9988880157470703,
         "repetition": 9
     },
     {
@@ -1044,7 +1044,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0744612216949463,
+        "time": 0.9865431785583496,
         "repetition": 10
     },
     {
@@ -1052,7 +1052,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0674147605895996,
+        "time": 0.9873528480529785,
         "repetition": 11
     },
     {
@@ -1060,7 +1060,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.182030200958252,
+        "time": 0.992448091506958,
         "repetition": 12
     },
     {
@@ -1068,7 +1068,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.5703563690185547,
+        "time": 0.9732484817504883,
         "repetition": 13
     },
     {
@@ -1076,7 +1076,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.104452133178711,
+        "time": 1.0573205947875977,
         "repetition": 14
     },
     {
@@ -1084,7 +1084,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0424132347106934,
+        "time": 0.9943499565124512,
         "repetition": 15
     },
     {
@@ -1092,7 +1092,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0675559043884277,
+        "time": 0.9970517158508301,
         "repetition": 16
     },
     {
@@ -1100,7 +1100,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.065262794494629,
+        "time": 0.980938196182251,
         "repetition": 17
     },
     {
@@ -1108,7 +1108,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0486536026000977,
+        "time": 0.9882347583770752,
         "repetition": 18
     },
     {
@@ -1116,7 +1116,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.1328296661376953,
+        "time": 1.0127780437469482,
         "repetition": 19
     },
     {
@@ -1124,7 +1124,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0924415588378906,
+        "time": 1.0072784423828125,
         "repetition": 20
     },
     {
@@ -1132,7 +1132,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.2783927917480469,
+        "time": 0.987755298614502,
         "repetition": 21
     },
     {
@@ -1140,7 +1140,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.7705137729644775,
+        "time": 0.9924719333648682,
         "repetition": 22
     },
     {
@@ -1148,7 +1148,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.237093210220337,
+        "time": 0.9948196411132812,
         "repetition": 23
     },
     {
@@ -1156,7 +1156,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.2873444557189941,
+        "time": 1.0095281600952148,
         "repetition": 24
     },
     {
@@ -1164,7 +1164,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.3481249809265137,
+        "time": 1.0263519287109375,
         "repetition": 25
     },
     {
@@ -1172,7 +1172,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.1075944900512695,
+        "time": 0.9941539764404297,
         "repetition": 26
     },
     {
@@ -1180,7 +1180,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0780389308929443,
+        "time": 0.9788634777069092,
         "repetition": 27
     },
     {
@@ -1188,7 +1188,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.105903148651123,
+        "time": 0.976844310760498,
         "repetition": 28
     },
     {
@@ -1196,7 +1196,7 @@
         "type": "MODEL",
         "compressor": "entropy",
         "iteration": 7,
-        "time": 1.0503451824188232,
+        "time": 0.9954402446746826,
         "repetition": 29
     }
 ]

@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.48595619201660156,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49226951599121094,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4942033290863037,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4969019889831543,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49976634979248047,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4879739284515381,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49985194206237793,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4999985694885254,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5041904449462891,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49843907356262207,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49703454971313477,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.48833322525024414,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5047934055328369,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.48685765266418457,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49469494819641113,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5089230537414551,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5057613849639893,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.48876214027404785,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4962918758392334,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.500676155090332,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4997246265411377,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4912106990814209,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.5041322708129883,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4887669086456299,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49837446212768555,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4897773265838623,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4922826290130615,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49164891242980957,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4978206157684326,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.4965498447418213,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0456933975219727,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0342917442321777,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.038752555847168,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0422248840332031,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.048337459564209,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0411269664764404,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0702400207519531,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0470688343048096,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0554964542388916,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.040414810180664,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0721831321716309,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0601134300231934,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.049340009689331,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0451509952545166,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.042384147644043,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.048156976699829,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.029672622680664,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1273090839385986,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1673691272735596,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0440113544464111,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1650946140289307,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1360373497009277,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.2225229740142822,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.2178258895874023,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1228468418121338,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1054768562316895,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0803370475769043,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.079514503479004,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0640976428985596,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0499296188354492,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6714925765991211,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.670710563659668,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.668581485748291,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6761729717254639,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6851179599761963,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.670903205871582,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6658086776733398,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6610729694366455,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.683574914932251,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6854410171508789,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6743407249450684,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6797101497650146,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6737198829650879,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6816749572753906,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.7237386703491211,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6790506839752197,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.662109375,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6876118183135986,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6549663543701172,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.673945426940918,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6664628982543945,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.672799825668335,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6626057624816895,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6700761318206787,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.669480562210083,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6788380146026611,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6760826110839844,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6748805046081543,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6769583225250244,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6793622970581055,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5400347709655762,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5388278961181641,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5347416400909424,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5300962924957275,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5292913913726807,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5274205207824707,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5354454517364502,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5209853649139404,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5383126735687256,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5412845611572266,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5286037921905518,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.539924144744873,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5319015979766846,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5234344005584717,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5304965972900391,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5329973697662354,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5293800830841064,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5237174034118652,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5227892398834229,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.526486873626709,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5239560604095459,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5327622890472412,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5260636806488037,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5289297103881836,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5224342346191406,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5315268039703369,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5329484939575195,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.531447172164917,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5213046073913574,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5258724689483643,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7863585948944092,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7748501300811768,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7917993068695068,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7971720695495605,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7964980602264404,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.8206112384796143,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7316968441009521,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7569234371185303,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7503349781036377,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.766336441040039,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7748746871948242,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7681629657745361,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.772838830947876,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7695610523223877,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7809522151947021,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7720251083374023,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7456636428833008,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7662353515625,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7632102966308594,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7896912097930908,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7696456909179688,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7808122634887695,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7835314273834229,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7795612812042236,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7574565410614014,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7614164352416992,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7660796642303467,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7792744636535645,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.781170129776001,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 11,
+        "time": 1.7606756687164307,
+        "repetition": 29
+    }
+]

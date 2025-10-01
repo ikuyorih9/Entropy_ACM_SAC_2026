@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8986940383911133,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.879871129989624,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8724546432495117,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8849508762359619,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.895881175994873,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8934493064880371,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8698713779449463,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0869600772857666,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9990119934082031,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9121055603027344,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9054787158966064,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8915410041809082,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8734216690063477,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8760795593261719,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9149978160858154,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8686509132385254,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8603534698486328,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8677313327789307,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8714561462402344,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8750467300415039,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8801043033599854,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.850635290145874,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.861588716506958,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8465721607208252,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.870328426361084,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8714122772216797,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8864302635192871,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8753030300140381,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8811006546020508,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.8810520172119141,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0152881145477295,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0011537075042725,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0957579612731934,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0522546768188477,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.145695447921753,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0124931335449219,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.021059513092041,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1509745121002197,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.04842209815979,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.021148920059204,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1230370998382568,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0725650787353516,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1304025650024414,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1291565895080566,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1033365726470947,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0151045322418213,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1283073425292969,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0981371402740479,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0325047969818115,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0071420669555664,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0803372859954834,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.015592336654663,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.035503625869751,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0271811485290527,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0057811737060547,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.022648811340332,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.028898000717163,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.011949062347412,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0019755363464355,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0235462188720703,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23795700073242188,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2256171703338623,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23592567443847656,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23333477973937988,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23211383819580078,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23264694213867188,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2268679141998291,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.22756552696228027,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2306811809539795,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23583984375,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23464465141296387,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2325584888458252,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23649835586547852,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.22779250144958496,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23157620429992676,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23030638694763184,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23472881317138672,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23923635482788086,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2397782802581787,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23287200927734375,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23187923431396484,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2324657440185547,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23153066635131836,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2535412311553955,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.24127459526062012,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23397326469421387,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23408913612365723,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2411651611328125,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2285623550415039,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.23335623741149902,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9071910381317139,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.90494704246521,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8694760799407959,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8973701000213623,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9013116359710693,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8786044120788574,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9274570941925049,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8917629718780518,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8832707405090332,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8831262588500977,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8780200481414795,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8922281265258789,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9242360591888428,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8822498321533203,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8893284797668457,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8797590732574463,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8747880458831787,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8806326389312744,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8725390434265137,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8877725601196289,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8831181526184082,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8796341419219971,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8873178958892822,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8893725872039795,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.874509334564209,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8877525329589844,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8930988311767578,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.886023759841919,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8850290775299072,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.8780994415283203,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7816188335418701,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7844123840332031,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7793095111846924,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7798757553100586,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.8164739608764648,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7846362590789795,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7887461185455322,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7753424644470215,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7662174701690674,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.9820899963378906,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.8928689956665039,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7732038497924805,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7798202037811279,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.794060468673706,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7539546489715576,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.783299446105957,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7784252166748047,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7821090221405029,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7803025245666504,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7758479118347168,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7634661197662354,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7569625377655029,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7687501907348633,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7569980621337891,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7671430110931396,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.8035972118377686,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7785449028015137,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7907683849334717,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.8088974952697754,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 5,
+        "time": 0.7767302989959717,
+        "repetition": 29
+    }
+]

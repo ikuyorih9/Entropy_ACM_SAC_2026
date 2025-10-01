@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9990713596343994,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9784834384918213,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9664151668548584,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9865891933441162,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9861958026885986,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.008638381958008,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.02423357963562,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9823222160339355,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.2104651927948,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.048510789871216,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9728996753692627,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9942293167114258,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.990232229232788,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.0092172622680664,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9778223037719727,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9649245738983154,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.962717056274414,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.998763084411621,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.96405029296875,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9827055931091309,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.972553014755249,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9737815856933594,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9717309474945068,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.0048530101776123,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.968369722366333,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.0037200450897217,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9606177806854248,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.014272689819336,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9780609607696533,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 1.9695558547973633,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.697762727737427,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.734940767288208,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.673179864883423,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.67080020904541,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.677436113357544,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.653467416763306,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.666679620742798,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.690030097961426,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.649821996688843,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.627668142318726,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.605891227722168,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.630751609802246,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.632986307144165,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.613048315048218,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.59496283531189,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.587364196777344,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.617902755737305,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.582404851913452,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.554773807525635,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.605792284011841,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.701009511947632,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.592062950134277,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.756935358047485,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.913619041442871,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.645082950592041,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.626472234725952,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.587812185287476,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.591770648956299,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.629203796386719,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 15,
+        "time": 4.590470790863037,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9913084506988525,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9899709224700928,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9938063621520996,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9861361980438232,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.029588460922241,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9734654426574707,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9998304843902588,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9854333400726318,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.989933967590332,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9999566078186035,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.0027554035186768,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.0104942321777344,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.0125088691711426,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.0168941020965576,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9828965663909912,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9968485832214355,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.0358545780181885,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9950871467590332,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9775173664093018,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9923219680786133,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9900562763214111,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.000183343887329,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.0060102939605713,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9943716526031494,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.99003005027771,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.9892561435699463,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 1.968132495880127,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.0395753383636475,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.266936779022217,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 12,
+        "time": 2.118896245956421,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4084644317626953,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4051408767700195,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.381481647491455,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3563284873962402,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.51875901222229,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3683853149414062,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3683061599731445,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3578433990478516,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.546135425567627,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3889713287353516,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3912296295166016,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4040350914001465,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.35209059715271,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4039082527160645,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3733625411987305,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.412576675415039,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.361957550048828,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4408624172210693,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.386120319366455,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.391235113143921,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3960466384887695,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3709051609039307,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3672666549682617,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.398125410079956,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3982059955596924,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3799476623535156,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4391777515411377,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4506547451019287,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.411043882369995,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.357518196105957,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.549787998199463,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.571531057357788,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.571720838546753,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5652506351470947,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5102086067199707,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5450501441955566,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.706245183944702,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5764875411987305,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5347959995269775,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.724177837371826,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.609290599822998,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.643197774887085,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6028668880462646,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5497899055480957,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.541984796524048,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6020212173461914,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5604450702667236,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5905041694641113,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5393052101135254,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5496020317077637,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6251747608184814,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5310940742492676,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5208051204681396,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6417999267578125,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.570467948913574,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.5353734493255615,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.555133819580078,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.6033880710601807,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.544412612915039,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.550041913986206,
+        "repetition": 29
+    }
+]

@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4020259380340576,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3912661075592041,
+        "repetition": 1
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39911365509033203,
+        "repetition": 2
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4036076068878174,
+        "repetition": 3
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3975794315338135,
+        "repetition": 4
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.40021777153015137,
+        "repetition": 5
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3928244113922119,
+        "repetition": 6
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3984053134918213,
+        "repetition": 7
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39100027084350586,
+        "repetition": 8
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39782142639160156,
+        "repetition": 9
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3837316036224365,
+        "repetition": 10
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38918638229370117,
+        "repetition": 11
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3942716121673584,
+        "repetition": 12
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.42101359367370605,
+        "repetition": 13
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39205145835876465,
+        "repetition": 14
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39030933380126953,
+        "repetition": 15
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3873465061187744,
+        "repetition": 16
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4520740509033203,
+        "repetition": 17
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4080636501312256,
+        "repetition": 18
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4004366397857666,
+        "repetition": 19
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4138331413269043,
+        "repetition": 20
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39591050148010254,
+        "repetition": 21
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3960433006286621,
+        "repetition": 22
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4006619453430176,
+        "repetition": 23
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39400553703308105,
+        "repetition": 24
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3958728313446045,
+        "repetition": 25
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3816061019897461,
+        "repetition": 26
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38150739669799805,
+        "repetition": 27
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3893437385559082,
+        "repetition": 28
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.4017333984375,
+        "repetition": 29
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.879784345626831,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8531143665313721,
+        "repetition": 1
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8552947044372559,
+        "repetition": 2
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8493785858154297,
+        "repetition": 3
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.862189769744873,
+        "repetition": 4
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.868126630783081,
+        "repetition": 5
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.902825117111206,
+        "repetition": 6
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0225129127502441,
+        "repetition": 7
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8595566749572754,
+        "repetition": 8
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8640518188476562,
+        "repetition": 9
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8502457141876221,
+        "repetition": 10
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8412868976593018,
+        "repetition": 11
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8539376258850098,
+        "repetition": 12
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.86199951171875,
+        "repetition": 13
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8505127429962158,
+        "repetition": 14
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0105254650115967,
+        "repetition": 15
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8809480667114258,
+        "repetition": 16
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 0.8531320095062256,
+        "repetition": 17
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0053153038024902,
+        "repetition": 18
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.2650959491729736,
+        "repetition": 19
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.3520307540893555,
+        "repetition": 20
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.1121063232421875,
+        "repetition": 21
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0661351680755615,
+        "repetition": 22
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0813872814178467,
+        "repetition": 23
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.1273832321166992,
+        "repetition": 24
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0908234119415283,
+        "repetition": 25
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0409152507781982,
+        "repetition": 26
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0713655948638916,
+        "repetition": 27
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.061452865600586,
+        "repetition": 28
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 2,
+        "time": 1.0726044178009033,
+        "repetition": 29
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2716059684753418,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26219844818115234,
+        "repetition": 1
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2639458179473877,
+        "repetition": 2
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.27462315559387207,
+        "repetition": 3
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26317286491394043,
+        "repetition": 4
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26296043395996094,
+        "repetition": 5
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.27051472663879395,
+        "repetition": 6
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.27089381217956543,
+        "repetition": 7
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.267930269241333,
+        "repetition": 8
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.276242733001709,
+        "repetition": 9
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26862454414367676,
+        "repetition": 10
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2687251567840576,
+        "repetition": 11
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26183080673217773,
+        "repetition": 12
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.267958402633667,
+        "repetition": 13
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2736222743988037,
+        "repetition": 14
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2634437084197998,
+        "repetition": 15
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26629066467285156,
+        "repetition": 16
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2665841579437256,
+        "repetition": 17
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26286816596984863,
+        "repetition": 18
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26634764671325684,
+        "repetition": 19
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2781651020050049,
+        "repetition": 20
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26093482971191406,
+        "repetition": 21
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2724595069885254,
+        "repetition": 22
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26949453353881836,
+        "repetition": 23
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.27283358573913574,
+        "repetition": 24
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.27120375633239746,
+        "repetition": 25
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26227641105651855,
+        "repetition": 26
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26236581802368164,
+        "repetition": 27
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.2632274627685547,
+        "repetition": 28
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 0,
+        "time": 0.26492762565612793,
+        "repetition": 29
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0256259441375732,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9948379993438721,
+        "repetition": 1
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0422558784484863,
+        "repetition": 2
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0102753639221191,
+        "repetition": 3
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.026641845703125,
+        "repetition": 4
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0044100284576416,
+        "repetition": 5
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9954409599304199,
+        "repetition": 6
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0014925003051758,
+        "repetition": 7
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0099549293518066,
+        "repetition": 8
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0122418403625488,
+        "repetition": 9
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0252251625061035,
+        "repetition": 10
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9972760677337646,
+        "repetition": 11
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0185506343841553,
+        "repetition": 12
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.00242018699646,
+        "repetition": 13
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0073328018188477,
+        "repetition": 14
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.008291244506836,
+        "repetition": 15
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.001842737197876,
+        "repetition": 16
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0111548900604248,
+        "repetition": 17
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0136423110961914,
+        "repetition": 18
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0091698169708252,
+        "repetition": 19
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9949541091918945,
+        "repetition": 20
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.01993989944458,
+        "repetition": 21
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0239770412445068,
+        "repetition": 22
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 0.9952616691589355,
+        "repetition": 23
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0047478675842285,
+        "repetition": 24
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0045864582061768,
+        "repetition": 25
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0056512355804443,
+        "repetition": 26
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0158336162567139,
+        "repetition": 27
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0003526210784912,
+        "repetition": 28
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 5,
+        "time": 1.0048580169677734,
+        "repetition": 29
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.650313138961792,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6420578956604004,
+        "repetition": 1
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6252613067626953,
+        "repetition": 2
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6184127330780029,
+        "repetition": 3
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6319680213928223,
+        "repetition": 4
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.63155198097229,
+        "repetition": 5
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6295034885406494,
+        "repetition": 6
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6360323429107666,
+        "repetition": 7
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.631596565246582,
+        "repetition": 8
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6254262924194336,
+        "repetition": 9
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6307556629180908,
+        "repetition": 10
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.629103422164917,
+        "repetition": 11
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6180844306945801,
+        "repetition": 12
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6270442008972168,
+        "repetition": 13
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6306650638580322,
+        "repetition": 14
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.626345157623291,
+        "repetition": 15
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6292819976806641,
+        "repetition": 16
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.651423454284668,
+        "repetition": 17
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6284897327423096,
+        "repetition": 18
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6244502067565918,
+        "repetition": 19
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.625779390335083,
+        "repetition": 20
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6508262157440186,
+        "repetition": 21
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6205534934997559,
+        "repetition": 22
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6343841552734375,
+        "repetition": 23
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6286661624908447,
+        "repetition": 24
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6183199882507324,
+        "repetition": 25
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6195759773254395,
+        "repetition": 26
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6263608932495117,
+        "repetition": 27
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6280128955841064,
+        "repetition": 28
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.6343204975128174,
+        "repetition": 29
+    }
+]

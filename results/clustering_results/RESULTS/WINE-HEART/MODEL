@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3922388553619385,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3682379722595215,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3818469047546387,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3914742469787598,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.687666416168213,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.516855239868164,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.593470335006714,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.5517055988311768,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3740060329437256,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.4786152839660645,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.5119829177856445,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3526549339294434,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.4190046787261963,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3624982833862305,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.37764573097229,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3874831199645996,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3705387115478516,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.381650924682617,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.6175851821899414,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3744704723358154,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.660029649734497,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.497997283935547,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.427982807159424,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.4150874614715576,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.352456569671631,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.3883490562438965,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.6464192867279053,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.395771026611328,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.477623462677002,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 18,
+        "time": 2.487912893295288,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8641884326934814,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.854353427886963,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8683085441589355,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.86342716217041,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.842859983444214,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8773295879364014,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8298723697662354,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.9819822311401367,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8802597522735596,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.9611425399780273,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.895846366882324,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8912205696105957,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8860762119293213,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.9981846809387207,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8492014408111572,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.867523670196533,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8552846908569336,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.839245319366455,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.943307638168335,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.9260852336883545,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.931133985519409,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8570523262023926,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8328452110290527,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.8356869220733643,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.9870874881744385,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.9137356281280518,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 3.1536076068878174,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 3.2979323863983154,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.9256813526153564,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 10,
+        "time": 2.878051519393921,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.7900927066802979,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8113090991973877,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.81797456741333,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 2.102445363998413,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.846574306488037,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8907954692840576,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8165106773376465,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8114731311798096,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.830775260925293,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 2.0219600200653076,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8800444602966309,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8340234756469727,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.91231107711792,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8377008438110352,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8115742206573486,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8144786357879639,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8198251724243164,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8596608638763428,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8298885822296143,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8274636268615723,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.833282709121704,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.819326639175415,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8336877822875977,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8307969570159912,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8983850479125977,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8366897106170654,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8253107070922852,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8949296474456787,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.816453218460083,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 11,
+        "time": 1.8213098049163818,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.392282009124756,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.413450002670288,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.364757537841797,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.382410764694214,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.5220348834991455,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3701934814453125,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.367478132247925,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.397836446762085,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.399862766265869,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.38006329536438,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3788790702819824,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.671403408050537,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4535958766937256,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.390909433364868,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3866875171661377,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3880035877227783,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.370922088623047,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.374525785446167,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.42965030670166,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 3.830852746963501,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3008759021759033,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.2896766662597656,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.2780494689941406,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.451029062271118,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3844799995422363,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.3972020149230957,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.408721923828125,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.4040045738220215,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.378477096557617,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 14,
+        "time": 2.7769267559051514,
+        "repetition": 29
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.232718229293823,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.4085540771484375,
+        "repetition": 1
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.192478179931641,
+        "repetition": 2
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.232168436050415,
+        "repetition": 3
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.242985963821411,
+        "repetition": 4
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.210780143737793,
+        "repetition": 5
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.276931285858154,
+        "repetition": 6
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.227518558502197,
+        "repetition": 7
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.1590492725372314,
+        "repetition": 8
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.3397438526153564,
+        "repetition": 9
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 8.136082410812378,
+        "repetition": 10
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 8.519566774368286,
+        "repetition": 11
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 6.3019702434539795,
+        "repetition": 12
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 6.397410154342651,
+        "repetition": 13
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 6.858493089675903,
+        "repetition": 14
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 6.377819299697876,
+        "repetition": 15
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 6.323556661605835,
+        "repetition": 16
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.7472312450408936,
+        "repetition": 17
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.562110424041748,
+        "repetition": 18
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.481766223907471,
+        "repetition": 19
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.708894729614258,
+        "repetition": 20
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.5169358253479,
+        "repetition": 21
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.443593502044678,
+        "repetition": 22
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.398259401321411,
+        "repetition": 23
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 6.038935661315918,
+        "repetition": 24
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 5.25778341293335,
+        "repetition": 25
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.74871039390564,
+        "repetition": 26
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.415740728378296,
+        "repetition": 27
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.321237564086914,
+        "repetition": 28
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MODEL",
+        "compressor": "entropy",
+        "iteration": 25,
+        "time": 4.226038932800293,
+        "repetition": 29
+    }
+]

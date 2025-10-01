@@ -4,7 +4,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9736852645874023,
+        "time": 0.8140480518341064,
         "repetition": 0
     },
     {
@@ -12,7 +12,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9537718296051025,
+        "time": 0.8202428817749023,
         "repetition": 1
     },
     {
@@ -20,7 +20,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9841961860656738,
+        "time": 0.8292927742004395,
         "repetition": 2
     },
     {
@@ -28,7 +28,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9969024658203125,
+        "time": 0.817547082901001,
         "repetition": 3
     },
     {
@@ -36,7 +36,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9798486232757568,
+        "time": 1.0763940811157227,
         "repetition": 4
     },
     {
@@ -44,7 +44,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9615912437438965,
+        "time": 1.3281896114349365,
         "repetition": 5
     },
     {
@@ -52,7 +52,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.0725500583648682,
+        "time": 1.1369905471801758,
         "repetition": 6
     },
     {
@@ -60,7 +60,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.1210741996765137,
+        "time": 1.1057682037353516,
         "repetition": 7
     },
     {
@@ -68,7 +68,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.035184383392334,
+        "time": 1.033726692199707,
         "repetition": 8
     },
     {
@@ -76,7 +76,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.0075857639312744,
+        "time": 0.8957562446594238,
         "repetition": 9
     },
     {
@@ -84,7 +84,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9744091033935547,
+        "time": 0.8418006896972656,
         "repetition": 10
     },
     {
@@ -92,7 +92,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9682576656341553,
+        "time": 0.8553791046142578,
         "repetition": 11
     },
     {
@@ -100,7 +100,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9622366428375244,
+        "time": 0.8442680835723877,
         "repetition": 12
     },
     {
@@ -108,7 +108,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9665389060974121,
+        "time": 0.8207111358642578,
         "repetition": 13
     },
     {
@@ -116,7 +116,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9781432151794434,
+        "time": 0.8330888748168945,
         "repetition": 14
     },
     {
@@ -124,7 +124,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9757909774780273,
+        "time": 0.8197422027587891,
         "repetition": 15
     },
     {
@@ -132,7 +132,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9960641860961914,
+        "time": 0.8198263645172119,
         "repetition": 16
     },
     {
@@ -140,7 +140,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.0779001712799072,
+        "time": 0.8421454429626465,
         "repetition": 17
     },
     {
@@ -148,7 +148,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9736709594726562,
+        "time": 0.8814992904663086,
         "repetition": 18
     },
     {
@@ -156,7 +156,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9391264915466309,
+        "time": 1.057354211807251,
         "repetition": 19
     },
     {
@@ -164,7 +164,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9979474544525146,
+        "time": 0.8426148891448975,
         "repetition": 20
     },
     {
@@ -172,7 +172,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9741358757019043,
+        "time": 0.8223416805267334,
         "repetition": 21
     },
     {
@@ -180,7 +180,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9764828681945801,
+        "time": 0.8157320022583008,
         "repetition": 22
     },
     {
@@ -188,7 +188,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9837758541107178,
+        "time": 0.8718314170837402,
         "repetition": 23
     },
     {
@@ -196,7 +196,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 0.9511575698852539,
+        "time": 0.9735972881317139,
         "repetition": 24
     },
     {
@@ -204,7 +204,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.1908419132232666,
+        "time": 0.9045214653015137,
         "repetition": 25
     },
     {
@@ -212,7 +212,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.3954403400421143,
+        "time": 0.9323480129241943,
         "repetition": 26
     },
     {
@@ -220,7 +220,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.242119312286377,
+        "time": 1.1756653785705566,
         "repetition": 27
     },
     {
@@ -228,7 +228,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.0000557899475098,
+        "time": 0.8380262851715088,
         "repetition": 28
     },
     {
@@ -236,7 +236,7 @@
         "type": "API",
         "compressor": "zlib",
         "iteration": 7,
-        "time": 1.3141696453094482,
+        "time": 0.8419981002807617,
         "repetition": 29
     },
     {
@@ -244,7 +244,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.580368757247925,
+        "time": 3.5054335594177246,
         "repetition": 0
     },
     {
@@ -252,7 +252,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.3452513217926025,
+        "time": 3.3063831329345703,
         "repetition": 1
     },
     {
@@ -260,7 +260,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 6.630065202713013,
+        "time": 3.4829516410827637,
         "repetition": 2
     },
     {
@@ -268,7 +268,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.713245868682861,
+        "time": 4.0948498249053955,
         "repetition": 3
     },
     {
@@ -276,7 +276,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.550710678100586,
+        "time": 3.3935322761535645,
         "repetition": 4
     },
     {
@@ -284,7 +284,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 6.117583274841309,
+        "time": 3.601790189743042,
         "repetition": 5
     },
     {
@@ -292,7 +292,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.657909393310547,
+        "time": 3.984963893890381,
         "repetition": 6
     },
     {
@@ -300,7 +300,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.475269794464111,
+        "time": 3.707505464553833,
         "repetition": 7
     },
     {
@@ -308,7 +308,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.299291133880615,
+        "time": 4.665931940078735,
         "repetition": 8
     },
     {
@@ -316,7 +316,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.3913938999176025,
+        "time": 3.963287115097046,
         "repetition": 9
     },
     {
@@ -324,7 +324,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.899420976638794,
+        "time": 6.339402675628662,
         "repetition": 10
     },
     {
@@ -332,7 +332,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.646480560302734,
+        "time": 4.510586738586426,
         "repetition": 11
     },
     {
@@ -340,7 +340,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.8178510665893555,
+        "time": 5.781947374343872,
         "repetition": 12
     },
     {
@@ -348,7 +348,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.963229656219482,
+        "time": 3.4211935997009277,
         "repetition": 13
     },
     {
@@ -356,7 +356,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.427459955215454,
+        "time": 3.720677614212036,
         "repetition": 14
     },
     {
@@ -364,7 +364,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 5.472523927688599,
+        "time": 4.060267925262451,
         "repetition": 15
     },
     {
@@ -372,7 +372,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 6.206845045089722,
+        "time": 3.989957571029663,
         "repetition": 16
     },
     {
@@ -380,7 +380,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.608460187911987,
+        "time": 3.8603906631469727,
         "repetition": 17
     },
     {
@@ -388,7 +388,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.935582160949707,
+        "time": 3.305922269821167,
         "repetition": 18
     },
     {
@@ -396,7 +396,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 9.311542749404907,
+        "time": 3.1831932067871094,
         "repetition": 19
     },
     {
@@ -404,7 +404,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 8.513492822647095,
+        "time": 3.4967739582061768,
         "repetition": 20
     },
     {
@@ -412,7 +412,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.3324480056762695,
+        "time": 3.841169834136963,
         "repetition": 21
     },
     {
@@ -420,7 +420,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 3.869364023208618,
+        "time": 3.6673645973205566,
         "repetition": 22
     },
     {
@@ -428,7 +428,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.2027974128723145,
+        "time": 3.5160648822784424,
         "repetition": 23
     },
     {
@@ -436,7 +436,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 3.963608980178833,
+        "time": 3.4539806842803955,
         "repetition": 24
     },
     {
@@ -444,7 +444,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 3.8125410079956055,
+        "time": 3.1353390216827393,
         "repetition": 25
     },
     {
@@ -452,7 +452,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 3.8927183151245117,
+        "time": 3.151864528656006,
         "repetition": 26
     },
     {
@@ -460,7 +460,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 3.837501287460327,
+        "time": 3.150136709213257,
         "repetition": 27
     },
     {
@@ -468,7 +468,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 4.10479211807251,
+        "time": 3.124845266342163,
         "repetition": 28
     },
     {
@@ -476,7 +476,7 @@
         "type": "API",
         "compressor": "gzip",
         "iteration": 11,
-        "time": 3.6679370403289795,
+        "time": 3.127220869064331,
         "repetition": 29
     },
     {
@@ -484,7 +484,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.124281883239746,
+        "time": 0.7176454067230225,
         "repetition": 0
     },
     {
@@ -492,7 +492,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.3197596073150635,
+        "time": 0.7135987281799316,
         "repetition": 1
     },
     {
@@ -500,7 +500,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.9589207172393799,
+        "time": 0.8658888339996338,
         "repetition": 2
     },
     {
@@ -508,7 +508,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8033530712127686,
+        "time": 0.7513418197631836,
         "repetition": 3
     },
     {
@@ -516,7 +516,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.832603931427002,
+        "time": 0.7143230438232422,
         "repetition": 4
     },
     {
@@ -524,7 +524,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.9154090881347656,
+        "time": 0.7177011966705322,
         "repetition": 5
     },
     {
@@ -532,7 +532,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.509558916091919,
+        "time": 0.7031514644622803,
         "repetition": 6
     },
     {
@@ -540,7 +540,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.4205634593963623,
+        "time": 0.7196557521820068,
         "repetition": 7
     },
     {
@@ -548,7 +548,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8534541130065918,
+        "time": 0.7118141651153564,
         "repetition": 8
     },
     {
@@ -556,7 +556,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8045592308044434,
+        "time": 0.7204604148864746,
         "repetition": 9
     },
     {
@@ -564,7 +564,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8686330318450928,
+        "time": 0.7031140327453613,
         "repetition": 10
     },
     {
@@ -572,7 +572,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.1346650123596191,
+        "time": 0.7150728702545166,
         "repetition": 11
     },
     {
@@ -580,7 +580,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.9454479217529297,
+        "time": 0.705920934677124,
         "repetition": 12
     },
     {
@@ -588,7 +588,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.2033586502075195,
+        "time": 0.7349934577941895,
         "repetition": 13
     },
     {
@@ -596,7 +596,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.9223332405090332,
+        "time": 0.7175254821777344,
         "repetition": 14
     },
     {
@@ -604,7 +604,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8910963535308838,
+        "time": 0.7078306674957275,
         "repetition": 15
     },
     {
@@ -612,7 +612,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.955333948135376,
+        "time": 0.7074451446533203,
         "repetition": 16
     },
     {
@@ -620,7 +620,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.0046684741973877,
+        "time": 0.7280364036560059,
         "repetition": 17
     },
     {
@@ -628,7 +628,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.9337742328643799,
+        "time": 0.7337820529937744,
         "repetition": 18
     },
     {
@@ -636,7 +636,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.9649314880371094,
+        "time": 0.9327280521392822,
         "repetition": 19
     },
     {
@@ -644,7 +644,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.1455626487731934,
+        "time": 0.7073216438293457,
         "repetition": 20
     },
     {
@@ -652,7 +652,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 1.1995878219604492,
+        "time": 0.7131497859954834,
         "repetition": 21
     },
     {
@@ -660,7 +660,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8654074668884277,
+        "time": 0.7484359741210938,
         "repetition": 22
     },
     {
@@ -668,7 +668,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.865567684173584,
+        "time": 0.7604093551635742,
         "repetition": 23
     },
     {
@@ -676,7 +676,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8605921268463135,
+        "time": 0.7785153388977051,
         "repetition": 24
     },
     {
@@ -684,7 +684,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8273391723632812,
+        "time": 0.7739601135253906,
         "repetition": 25
     },
     {
@@ -692,7 +692,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.918311357498169,
+        "time": 0.7993535995483398,
         "repetition": 26
     },
     {
@@ -700,7 +700,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8373210430145264,
+        "time": 0.7246904373168945,
         "repetition": 27
     },
     {
@@ -708,7 +708,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8258488178253174,
+        "time": 0.7325387001037598,
         "repetition": 28
     },
     {
@@ -716,7 +716,7 @@
         "type": "API",
         "compressor": "bz2",
         "iteration": 4,
-        "time": 0.8044135570526123,
+        "time": 0.7181994915008545,
         "repetition": 29
     },
     {
@@ -724,7 +724,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.900083065032959,
+        "time": 0.8500192165374756,
         "repetition": 0
     },
     {
@@ -732,7 +732,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9115791320800781,
+        "time": 0.8535068035125732,
         "repetition": 1
     },
     {
@@ -740,7 +740,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.898273229598999,
+        "time": 0.8498330116271973,
         "repetition": 2
     },
     {
@@ -748,7 +748,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.8893604278564453,
+        "time": 0.8592743873596191,
         "repetition": 3
     },
     {
@@ -756,7 +756,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9179410934448242,
+        "time": 0.840726375579834,
         "repetition": 4
     },
     {
@@ -764,7 +764,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.1627025604248047,
+        "time": 0.8505945205688477,
         "repetition": 5
     },
     {
@@ -772,7 +772,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.206073522567749,
+        "time": 0.847437858581543,
         "repetition": 6
     },
     {
@@ -780,7 +780,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.0008068084716797,
+        "time": 0.851923942565918,
         "repetition": 7
     },
     {
@@ -788,7 +788,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9279732704162598,
+        "time": 0.8315119743347168,
         "repetition": 8
     },
     {
@@ -796,7 +796,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.153719186782837,
+        "time": 0.8412332534790039,
         "repetition": 9
     },
     {
@@ -804,7 +804,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.029900312423706,
+        "time": 0.8624732494354248,
         "repetition": 10
     },
     {
@@ -812,7 +812,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.0239038467407227,
+        "time": 0.8413360118865967,
         "repetition": 11
     },
     {
@@ -820,7 +820,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9465844631195068,
+        "time": 0.8426806926727295,
         "repetition": 12
     },
     {
@@ -828,7 +828,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9071929454803467,
+        "time": 0.8364646434783936,
         "repetition": 13
     },
     {
@@ -836,7 +836,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9029204845428467,
+        "time": 0.8446862697601318,
         "repetition": 14
     },
     {
@@ -844,7 +844,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.8950178623199463,
+        "time": 0.8381195068359375,
         "repetition": 15
     },
     {
@@ -852,7 +852,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9108593463897705,
+        "time": 0.8477530479431152,
         "repetition": 16
     },
     {
@@ -860,7 +860,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.0139338970184326,
+        "time": 0.8485958576202393,
         "repetition": 17
     },
     {
@@ -868,7 +868,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9185702800750732,
+        "time": 0.8513174057006836,
         "repetition": 18
     },
     {
@@ -876,7 +876,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9561474323272705,
+        "time": 0.838813066482544,
         "repetition": 19
     },
     {
@@ -884,7 +884,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9242115020751953,
+        "time": 0.862987756729126,
         "repetition": 20
     },
     {
@@ -892,7 +892,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9156336784362793,
+        "time": 0.8424019813537598,
         "repetition": 21
     },
     {
@@ -900,7 +900,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9251692295074463,
+        "time": 0.852741003036499,
         "repetition": 22
     },
     {
@@ -908,7 +908,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 1.0937986373901367,
+        "time": 0.8446898460388184,
         "repetition": 23
     },
     {
@@ -916,7 +916,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9723148345947266,
+        "time": 0.8388075828552246,
         "repetition": 24
     },
     {
@@ -924,7 +924,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9050018787384033,
+        "time": 0.8629534244537354,
         "repetition": 25
     },
     {
@@ -932,7 +932,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.8899660110473633,
+        "time": 0.8444008827209473,
         "repetition": 26
     },
     {
@@ -940,7 +940,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9055609703063965,
+        "time": 0.842503547668457,
         "repetition": 27
     },
     {
@@ -948,7 +948,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9034726619720459,
+        "time": 0.8520364761352539,
         "repetition": 28
     },
     {
@@ -956,7 +956,7 @@
         "type": "API",
         "compressor": "ppmd",
         "iteration": 5,
-        "time": 0.9245569705963135,
+        "time": 0.8392295837402344,
         "repetition": 29
     },
     {
@@ -964,7 +964,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.376077890396118,
+        "time": 3.1014294624328613,
         "repetition": 0
     },
     {
@@ -972,7 +972,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.310811758041382,
+        "time": 3.2684059143066406,
         "repetition": 1
     },
     {
@@ -980,7 +980,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.1950604915618896,
+        "time": 3.0963857173919678,
         "repetition": 2
     },
     {
@@ -988,7 +988,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.184558868408203,
+        "time": 3.1109015941619873,
         "repetition": 3
     },
     {
@@ -996,7 +996,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.339113712310791,
+        "time": 3.193842649459839,
         "repetition": 4
     },
     {
@@ -1004,7 +1004,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.2822015285491943,
+        "time": 3.119943618774414,
         "repetition": 5
     },
     {
@@ -1012,7 +1012,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.9149489402770996,
+        "time": 3.1253936290740967,
         "repetition": 6
     },
     {
@@ -1020,7 +1020,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.3944969177246094,
+        "time": 3.078195571899414,
         "repetition": 7
     },
     {
@@ -1028,7 +1028,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.2814533710479736,
+        "time": 3.138917922973633,
         "repetition": 8
     },
     {
@@ -1036,7 +1036,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.283982515335083,
+        "time": 3.0541248321533203,
         "repetition": 9
     },
     {
@@ -1044,7 +1044,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.2233238220214844,
+        "time": 3.035024404525757,
         "repetition": 10
     },
     {
@@ -1052,7 +1052,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.2445883750915527,
+        "time": 3.009046792984009,
         "repetition": 11
     },
     {
@@ -1060,7 +1060,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.3443284034729004,
+        "time": 3.023303508758545,
         "repetition": 12
     },
     {
@@ -1068,7 +1068,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.267616033554077,
+        "time": 3.0212528705596924,
         "repetition": 13
     },
     {
@@ -1076,7 +1076,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.602605104446411,
+        "time": 3.019666910171509,
         "repetition": 14
     },
     {
@@ -1084,7 +1084,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 3.497422218322754,
+        "time": 3.0415399074554443,
         "repetition": 15
     },
     {
@@ -1092,7 +1092,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 4.409262180328369,
+        "time": 3.0178282260894775,
         "repetition": 16
     },
     {
@@ -1100,7 +1100,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 4.583683013916016,
+        "time": 3.0256357192993164,
         "repetition": 17
     },
     {
@@ -1108,7 +1108,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 4.203065395355225,
+        "time": 3.070969343185425,
         "repetition": 18
     },
     {
@@ -1116,7 +1116,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 6.167284727096558,
+        "time": 3.0278382301330566,
         "repetition": 19
     },
     {
@@ -1124,7 +1124,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 14.696818590164185,
+        "time": 3.029027223587036,
         "repetition": 20
     },
     {
@@ -1132,7 +1132,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 6.403836250305176,
+        "time": 3.006200075149536,
         "repetition": 21
     },
     {
@@ -1140,7 +1140,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 5.231919765472412,
+        "time": 3.0270020961761475,
         "repetition": 22
     },
     {
@@ -1148,7 +1148,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 5.745692014694214,
+        "time": 2.9996275901794434,
         "repetition": 23
     },
     {
@@ -1156,7 +1156,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 4.74256443977356,
+        "time": 3.014547824859619,
         "repetition": 24
     },
     {
@@ -1164,7 +1164,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 6.3974289894104,
+        "time": 3.0518617630004883,
         "repetition": 25
     },
     {
@@ -1172,7 +1172,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 8.444645881652832,
+        "time": 3.0795276165008545,
         "repetition": 26
     },
     {
@@ -1180,7 +1180,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 5.14002537727356,
+        "time": 3.170776605606079,
         "repetition": 27
     },
     {
@@ -1188,7 +1188,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 5.560940742492676,
+        "time": 3.07574200630188,
         "repetition": 28
     },
     {
@@ -1196,7 +1196,7 @@
         "type": "API",
         "compressor": "entropy",
         "iteration": 20,
-        "time": 4.039390563964844,
+        "time": 3.0276780128479004,
         "repetition": 29
     }
 ]

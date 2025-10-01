@@ -4,7 +4,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8166642189025879,
+        "time": 0.42708516120910645,
         "repetition": 0
     },
     {
@@ -12,7 +12,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7300114631652832,
+        "time": 0.42709922790527344,
         "repetition": 1
     },
     {
@@ -20,7 +20,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.2525532245635986,
+        "time": 0.4325389862060547,
         "repetition": 2
     },
     {
@@ -28,7 +28,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.9529039859771729,
+        "time": 0.4176170825958252,
         "repetition": 3
     },
     {
@@ -36,7 +36,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.6902213096618652,
+        "time": 0.42601943016052246,
         "repetition": 4
     },
     {
@@ -44,7 +44,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 2.1566262245178223,
+        "time": 0.42726850509643555,
         "repetition": 5
     },
     {
@@ -52,7 +52,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8505394458770752,
+        "time": 0.4262089729309082,
         "repetition": 6
     },
     {
@@ -60,7 +60,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7645547389984131,
+        "time": 0.4347708225250244,
         "repetition": 7
     },
     {
@@ -68,7 +68,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.9217207431793213,
+        "time": 0.4196281433105469,
         "repetition": 8
     },
     {
@@ -76,7 +76,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.3527755737304688,
+        "time": 0.4248545169830322,
         "repetition": 9
     },
     {
@@ -84,7 +84,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.7593867778778076,
+        "time": 0.4493744373321533,
         "repetition": 10
     },
     {
@@ -92,7 +92,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.145545482635498,
+        "time": 0.5173120498657227,
         "repetition": 11
     },
     {
@@ -100,7 +100,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8354337215423584,
+        "time": 0.5551731586456299,
         "repetition": 12
     },
     {
@@ -108,7 +108,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8153455257415771,
+        "time": 0.5614626407623291,
         "repetition": 13
     },
     {
@@ -116,7 +116,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.786907434463501,
+        "time": 0.44859910011291504,
         "repetition": 14
     },
     {
@@ -124,7 +124,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 4.215559959411621,
+        "time": 0.4562368392944336,
         "repetition": 15
     },
     {
@@ -132,7 +132,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.95347261428833,
+        "time": 0.4799501895904541,
         "repetition": 16
     },
     {
@@ -140,7 +140,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.289612054824829,
+        "time": 0.4439363479614258,
         "repetition": 17
     },
     {
@@ -148,7 +148,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.1757805347442627,
+        "time": 0.44399333000183105,
         "repetition": 18
     },
     {
@@ -156,7 +156,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.7313761711120605,
+        "time": 0.4304165840148926,
         "repetition": 19
     },
     {
@@ -164,7 +164,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.4410874843597412,
+        "time": 0.5539240837097168,
         "repetition": 20
     },
     {
@@ -172,7 +172,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.0023181438446045,
+        "time": 0.5606002807617188,
         "repetition": 21
     },
     {
@@ -180,7 +180,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.9759845733642578,
+        "time": 0.6082417964935303,
         "repetition": 22
     },
     {
@@ -188,7 +188,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.0279362201690674,
+        "time": 0.5147929191589355,
         "repetition": 23
     },
     {
@@ -196,7 +196,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.7986419200897217,
+        "time": 0.4964423179626465,
         "repetition": 24
     },
     {
@@ -204,7 +204,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.701087236404419,
+        "time": 0.4751627445220947,
         "repetition": 25
     },
     {
@@ -212,7 +212,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.0625405311584473,
+        "time": 0.5510993003845215,
         "repetition": 26
     },
     {
@@ -220,7 +220,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.025721788406372,
+        "time": 0.5240943431854248,
         "repetition": 27
     },
     {
@@ -228,7 +228,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 1.2087719440460205,
+        "time": 0.52528977394104,
         "repetition": 28
     },
     {
@@ -236,7 +236,7 @@
         "type": "PROCESS",
         "compressor": "zlib",
         "iteration": 3,
-        "time": 0.8776018619537354,
+        "time": 0.45639920234680176,
         "repetition": 29
     },
     {
@@ -244,7 +244,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8872456550598145,
+        "time": 0.7767784595489502,
         "repetition": 0
     },
     {
@@ -252,7 +252,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8803026676177979,
+        "time": 0.7593235969543457,
         "repetition": 1
     },
     {
@@ -260,7 +260,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.945110559463501,
+        "time": 0.7547616958618164,
         "repetition": 2
     },
     {
@@ -268,7 +268,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.3820109367370605,
+        "time": 0.7502245903015137,
         "repetition": 3
     },
     {
@@ -276,7 +276,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.2967720031738281,
+        "time": 0.7713758945465088,
         "repetition": 4
     },
     {
@@ -284,7 +284,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.9134635925292969,
+        "time": 0.7475621700286865,
         "repetition": 5
     },
     {
@@ -292,7 +292,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8899831771850586,
+        "time": 0.8029742240905762,
         "repetition": 6
     },
     {
@@ -300,7 +300,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8703727722167969,
+        "time": 0.7676072120666504,
         "repetition": 7
     },
     {
@@ -308,7 +308,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8566811084747314,
+        "time": 0.7790372371673584,
         "repetition": 8
     },
     {
@@ -316,7 +316,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8607001304626465,
+        "time": 0.7529761791229248,
         "repetition": 9
     },
     {
@@ -324,7 +324,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8620281219482422,
+        "time": 0.7399868965148926,
         "repetition": 10
     },
     {
@@ -332,7 +332,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8593690395355225,
+        "time": 0.7419881820678711,
         "repetition": 11
     },
     {
@@ -340,7 +340,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.9457619190216064,
+        "time": 0.7685947418212891,
         "repetition": 12
     },
     {
@@ -348,7 +348,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.900843620300293,
+        "time": 0.7457802295684814,
         "repetition": 13
     },
     {
@@ -356,7 +356,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8654811382293701,
+        "time": 0.7355527877807617,
         "repetition": 14
     },
     {
@@ -364,7 +364,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.88608717918396,
+        "time": 0.7579314708709717,
         "repetition": 15
     },
     {
@@ -372,7 +372,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8595635890960693,
+        "time": 0.7332656383514404,
         "repetition": 16
     },
     {
@@ -380,7 +380,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8780429363250732,
+        "time": 0.7096824645996094,
         "repetition": 17
     },
     {
@@ -388,7 +388,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8533363342285156,
+        "time": 0.7434489727020264,
         "repetition": 18
     },
     {
@@ -396,7 +396,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.9111757278442383,
+        "time": 0.7339200973510742,
         "repetition": 19
     },
     {
@@ -404,7 +404,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.9323265552520752,
+        "time": 0.7341997623443604,
         "repetition": 20
     },
     {
@@ -412,7 +412,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.0002381801605225,
+        "time": 0.7403924465179443,
         "repetition": 21
     },
     {
@@ -420,7 +420,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.0712954998016357,
+        "time": 0.7439560890197754,
         "repetition": 22
     },
     {
@@ -428,7 +428,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.195988655090332,
+        "time": 0.7430324554443359,
         "repetition": 23
     },
     {
@@ -436,7 +436,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.0843064785003662,
+        "time": 0.7402894496917725,
         "repetition": 24
     },
     {
@@ -444,7 +444,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.1399540901184082,
+        "time": 0.7521805763244629,
         "repetition": 25
     },
     {
@@ -452,7 +452,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.1467888355255127,
+        "time": 0.7532670497894287,
         "repetition": 26
     },
     {
@@ -460,7 +460,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.9767041206359863,
+        "time": 0.752023458480835,
         "repetition": 27
     },
     {
@@ -468,7 +468,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 0.8807001113891602,
+        "time": 0.7481193542480469,
         "repetition": 28
     },
     {
@@ -476,7 +476,7 @@
         "type": "PROCESS",
         "compressor": "gzip",
         "iteration": 2,
-        "time": 1.278609037399292,
+        "time": 0.7408707141876221,
         "repetition": 29
     },
     {
@@ -484,7 +484,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6175229549407959,
+        "time": 0.5854766368865967,
         "repetition": 0
     },
     {
@@ -492,7 +492,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6466965675354004,
+        "time": 0.5720901489257812,
         "repetition": 1
     },
     {
@@ -500,7 +500,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6962461471557617,
+        "time": 0.5761382579803467,
         "repetition": 2
     },
     {
@@ -508,7 +508,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6372206211090088,
+        "time": 0.569603681564331,
         "repetition": 3
     },
     {
@@ -516,7 +516,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6352558135986328,
+        "time": 0.567131519317627,
         "repetition": 4
     },
     {
@@ -524,7 +524,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6561293601989746,
+        "time": 0.5669734477996826,
         "repetition": 5
     },
     {
@@ -532,7 +532,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6625101566314697,
+        "time": 0.570171594619751,
         "repetition": 6
     },
     {
@@ -540,7 +540,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6578550338745117,
+        "time": 0.5921976566314697,
         "repetition": 7
     },
     {
@@ -548,7 +548,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6562907695770264,
+        "time": 0.5703780651092529,
         "repetition": 8
     },
     {
@@ -556,7 +556,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6417028903961182,
+        "time": 0.5760812759399414,
         "repetition": 9
     },
     {
@@ -564,7 +564,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.628697395324707,
+        "time": 0.6676969528198242,
         "repetition": 10
     },
     {
@@ -572,7 +572,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6457760334014893,
+        "time": 0.5841286182403564,
         "repetition": 11
     },
     {
@@ -580,7 +580,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.9584207534790039,
+        "time": 0.5730512142181396,
         "repetition": 12
     },
     {
@@ -588,7 +588,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7643649578094482,
+        "time": 0.5781285762786865,
         "repetition": 13
     },
     {
@@ -596,7 +596,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.7285621166229248,
+        "time": 0.5723240375518799,
         "repetition": 14
     },
     {
@@ -604,7 +604,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6307234764099121,
+        "time": 0.5824782848358154,
         "repetition": 15
     },
     {
@@ -612,7 +612,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.629448413848877,
+        "time": 0.5744531154632568,
         "repetition": 16
     },
     {
@@ -620,7 +620,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.630772590637207,
+        "time": 0.5871028900146484,
         "repetition": 17
     },
     {
@@ -628,7 +628,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6262545585632324,
+        "time": 0.5769460201263428,
         "repetition": 18
     },
     {
@@ -636,7 +636,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6330976486206055,
+        "time": 0.579517126083374,
         "repetition": 19
     },
     {
@@ -644,7 +644,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6521420478820801,
+        "time": 0.5662329196929932,
         "repetition": 20
     },
     {
@@ -652,7 +652,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6567604541778564,
+        "time": 0.5698080062866211,
         "repetition": 21
     },
     {
@@ -660,7 +660,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6441726684570312,
+        "time": 0.5899255275726318,
         "repetition": 22
     },
     {
@@ -668,7 +668,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6379473209381104,
+        "time": 0.5729327201843262,
         "repetition": 23
     },
     {
@@ -676,7 +676,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6403656005859375,
+        "time": 0.5723738670349121,
         "repetition": 24
     },
     {
@@ -684,7 +684,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6359717845916748,
+        "time": 0.568044900894165,
         "repetition": 25
     },
     {
@@ -692,7 +692,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6412701606750488,
+        "time": 0.5891575813293457,
         "repetition": 26
     },
     {
@@ -700,7 +700,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6377096176147461,
+        "time": 0.5668010711669922,
         "repetition": 27
     },
     {
@@ -708,7 +708,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6280972957611084,
+        "time": 0.6062033176422119,
         "repetition": 28
     },
     {
@@ -716,7 +716,7 @@
         "type": "PROCESS",
         "compressor": "bz2",
         "iteration": 3,
-        "time": 0.6480050086975098,
+        "time": 0.5777072906494141,
         "repetition": 29
     },
     {
@@ -724,7 +724,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.9434096813201904,
+        "time": 0.5722851753234863,
         "repetition": 0
     },
     {
@@ -732,7 +732,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.805483341217041,
+        "time": 0.5785911083221436,
         "repetition": 1
     },
     {
@@ -740,7 +740,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6514396667480469,
+        "time": 0.5753805637359619,
         "repetition": 2
     },
     {
@@ -748,7 +748,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.766179084777832,
+        "time": 0.5808475017547607,
         "repetition": 3
     },
     {
@@ -756,7 +756,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6571817398071289,
+        "time": 0.5765910148620605,
         "repetition": 4
     },
     {
@@ -764,7 +764,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7258212566375732,
+        "time": 0.5996391773223877,
         "repetition": 5
     },
     {
@@ -772,7 +772,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6520082950592041,
+        "time": 0.5712239742279053,
         "repetition": 6
     },
     {
@@ -780,7 +780,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6708877086639404,
+        "time": 0.5831482410430908,
         "repetition": 7
     },
     {
@@ -788,7 +788,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6609158515930176,
+        "time": 0.5693206787109375,
         "repetition": 8
     },
     {
@@ -796,7 +796,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6279923915863037,
+        "time": 0.5600590705871582,
         "repetition": 9
     },
     {
@@ -804,7 +804,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.8407449722290039,
+        "time": 0.6038916110992432,
         "repetition": 10
     },
     {
@@ -812,7 +812,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.8799684047698975,
+        "time": 0.5806014537811279,
         "repetition": 11
     },
     {
@@ -820,7 +820,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7168893814086914,
+        "time": 0.5807609558105469,
         "repetition": 12
     },
     {
@@ -828,7 +828,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6316113471984863,
+        "time": 0.584160566329956,
         "repetition": 13
     },
     {
@@ -836,7 +836,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6258008480072021,
+        "time": 0.5687422752380371,
         "repetition": 14
     },
     {
@@ -844,7 +844,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6419832706451416,
+        "time": 0.5827219486236572,
         "repetition": 15
     },
     {
@@ -852,7 +852,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6367220878601074,
+        "time": 0.5806622505187988,
         "repetition": 16
     },
     {
@@ -860,7 +860,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7265493869781494,
+        "time": 0.5846543312072754,
         "repetition": 17
     },
     {
@@ -868,7 +868,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7344114780426025,
+        "time": 0.5704243183135986,
         "repetition": 18
     },
     {
@@ -876,7 +876,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6606945991516113,
+        "time": 0.5928196907043457,
         "repetition": 19
     },
     {
@@ -884,7 +884,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6242384910583496,
+        "time": 0.5763981342315674,
         "repetition": 20
     },
     {
@@ -892,7 +892,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6263241767883301,
+        "time": 0.580744743347168,
         "repetition": 21
     },
     {
@@ -900,7 +900,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7453994750976562,
+        "time": 0.5795302391052246,
         "repetition": 22
     },
     {
@@ -908,7 +908,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.7551684379577637,
+        "time": 0.5778787136077881,
         "repetition": 23
     },
     {
@@ -916,7 +916,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.662513256072998,
+        "time": 0.567676305770874,
         "repetition": 24
     },
     {
@@ -924,7 +924,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6427419185638428,
+        "time": 0.5783257484436035,
         "repetition": 25
     },
     {
@@ -932,7 +932,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6397824287414551,
+        "time": 0.5721886157989502,
         "repetition": 26
     },
     {
@@ -940,7 +940,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6283798217773438,
+        "time": 0.5733883380889893,
         "repetition": 27
     },
     {
@@ -948,7 +948,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6342120170593262,
+        "time": 0.5863709449768066,
         "repetition": 28
     },
     {
@@ -956,7 +956,7 @@
         "type": "PROCESS",
         "compressor": "ppmd",
         "iteration": 3,
-        "time": 0.6473324298858643,
+        "time": 0.5766746997833252,
         "repetition": 29
     },
     {
@@ -964,7 +964,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.4127311706542969,
+        "time": 1.261378526687622,
         "repetition": 0
     },
     {
@@ -972,7 +972,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.6255769729614258,
+        "time": 1.2289743423461914,
         "repetition": 1
     },
     {
@@ -980,7 +980,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.7098369598388672,
+        "time": 1.2236411571502686,
         "repetition": 2
     },
     {
@@ -988,7 +988,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.4416143894195557,
+        "time": 1.2090051174163818,
         "repetition": 3
     },
     {
@@ -996,7 +996,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.4206180572509766,
+        "time": 1.2149944305419922,
         "repetition": 4
     },
     {
@@ -1004,7 +1004,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.5484747886657715,
+        "time": 1.2661957740783691,
         "repetition": 5
     },
     {
@@ -1012,7 +1012,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3542530536651611,
+        "time": 1.4953546524047852,
         "repetition": 6
     },
     {
@@ -1020,7 +1020,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3599293231964111,
+        "time": 1.2217497825622559,
         "repetition": 7
     },
     {
@@ -1028,7 +1028,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.334911823272705,
+        "time": 1.2382206916809082,
         "repetition": 8
     },
     {
@@ -1036,7 +1036,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3601124286651611,
+        "time": 1.385749340057373,
         "repetition": 9
     },
     {
@@ -1044,7 +1044,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.4231247901916504,
+        "time": 1.2183058261871338,
         "repetition": 10
     },
     {
@@ -1052,7 +1052,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3172671794891357,
+        "time": 1.3578267097473145,
         "repetition": 11
     },
     {
@@ -1060,7 +1060,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.303873062133789,
+        "time": 1.2490794658660889,
         "repetition": 12
     },
     {
@@ -1068,7 +1068,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3316900730133057,
+        "time": 1.8557562828063965,
         "repetition": 13
     },
     {
@@ -1076,7 +1076,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.507664680480957,
+        "time": 1.210289716720581,
         "repetition": 14
     },
     {
@@ -1084,7 +1084,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.2907915115356445,
+        "time": 1.3763031959533691,
         "repetition": 15
     },
     {
@@ -1092,7 +1092,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.5103683471679688,
+        "time": 1.272935152053833,
         "repetition": 16
     },
     {
@@ -1100,7 +1100,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.7543518543243408,
+        "time": 1.2181611061096191,
         "repetition": 17
     },
     {
@@ -1108,7 +1108,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3597371578216553,
+        "time": 1.2323212623596191,
         "repetition": 18
     },
     {
@@ -1116,7 +1116,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3526854515075684,
+        "time": 1.212658405303955,
         "repetition": 19
     },
     {
@@ -1124,7 +1124,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.311535120010376,
+        "time": 1.244307518005371,
         "repetition": 20
     },
     {
@@ -1132,7 +1132,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3090267181396484,
+        "time": 1.2214932441711426,
         "repetition": 21
     },
     {
@@ -1140,7 +1140,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3179125785827637,
+        "time": 1.2396657466888428,
         "repetition": 22
     },
     {
@@ -1148,7 +1148,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.336914300918579,
+        "time": 1.219240665435791,
         "repetition": 23
     },
     {
@@ -1156,7 +1156,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.4323081970214844,
+        "time": 1.229973554611206,
         "repetition": 24
     },
     {
@@ -1164,7 +1164,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3973288536071777,
+        "time": 1.2381243705749512,
         "repetition": 25
     },
     {
@@ -1172,7 +1172,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.7218291759490967,
+        "time": 1.2341945171356201,
         "repetition": 26
     },
     {
@@ -1180,7 +1180,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.6482243537902832,
+        "time": 1.2224233150482178,
         "repetition": 27
     },
     {
@@ -1188,7 +1188,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.3239526748657227,
+        "time": 1.2122361660003662,
         "repetition": 28
     },
     {
@@ -1196,7 +1196,7 @@
         "type": "PROCESS",
         "compressor": "entropy",
         "iteration": 9,
-        "time": 1.8043856620788574,
+        "time": 1.2251806259155273,
         "repetition": 29
     }
 ]

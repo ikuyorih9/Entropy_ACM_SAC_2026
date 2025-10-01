@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.893022775650024,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 6.087801694869995,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.635451078414917,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.501310348510742,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 10.76451826095581,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.761046886444092,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.715330600738525,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.618056535720825,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.856481313705444,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.100408554077148,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.720939874649048,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.845250606536865,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.401931285858154,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.133519411087036,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.678400754928589,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 6.479896783828735,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 6.265577554702759,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.826560735702515,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.650725364685059,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.797091960906982,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.724681615829468,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.695585012435913,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.79036808013916,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.668839693069458,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.572110176086426,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.602672576904297,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.023641109466553,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.62400484085083,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.598493337631226,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 4.571463584899902,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 12.05424427986145,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.877049922943115,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 12.101388216018677,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.802868843078613,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.709736347198486,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.764774084091187,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.71421217918396,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.720141887664795,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.564584255218506,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.613125085830688,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.665796041488647,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.612897872924805,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.667949199676514,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.593286514282227,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.563026666641235,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.888588666915894,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.841806173324585,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.681701421737671,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.5665283203125,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.622753381729126,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.556205987930298,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.680354833602905,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.712473630905151,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.95025372505188,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 12.48598861694336,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.882208585739136,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.724262237548828,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.685595512390137,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.617074966430664,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 11.553745746612549,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.248766899108887,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.258152484893799,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.531399250030518,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.2666916847229,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.490312576293945,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.228899955749512,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.4189064502716064,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.41846489906311,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.440107107162476,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.225801229476929,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.252248287200928,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.377237796783447,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.250377655029297,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.2496497631073,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.499373197555542,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.241365194320679,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.357698678970337,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.245010852813721,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.2837159633636475,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.19600510597229,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.240084648132324,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.244150400161743,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.279761552810669,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.483307123184204,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.697572469711304,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.286366701126099,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.266416072845459,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.265507936477661,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.202281951904297,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.213831424713135,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.303945302963257,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.297084808349609,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.313312530517578,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.366207838058472,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.284346342086792,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.361823797225952,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.407840251922607,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.2974748611450195,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.396655797958374,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.353522777557373,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.315171957015991,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.412373781204224,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.428234338760376,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.288644552230835,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.388959169387817,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.314953804016113,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.334949731826782,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.328521728515625,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.299437046051025,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.294189691543579,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.335490465164185,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.3286497592926025,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.287658214569092,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.321768760681152,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.323854207992554,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.317724227905273,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.29513692855835,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.5980634689331055,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.293293476104736,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 6.261639833450317,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.368769645690918,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.458329916000366,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.390368461608887,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.480856657028198,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.4685962200164795,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.378108024597168,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.381207704544067,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.4094016551971436,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.388014316558838,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.450989484786987,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.3727030754089355,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.437394857406616,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.380810737609863,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.395182132720947,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.37926459312439,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.423192977905273,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.360748291015625,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.574824571609497,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.381489038467407,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.34175968170166,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.5696001052856445,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.495950222015381,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.39698338508606,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.446939468383789,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.380519151687622,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.469142436981201,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.415619850158691,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.449170112609863,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.3532328605651855,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.380490779876709,
+        "repetition": 29
+    }
+]

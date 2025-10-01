@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39163661003112793,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.388216495513916,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3797576427459717,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38953399658203125,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3861722946166992,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3923625946044922,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38080620765686035,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3843111991882324,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.37653160095214844,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3763744831085205,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.40740370750427246,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38025403022766113,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39235377311706543,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38112831115722656,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3866744041442871,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38429880142211914,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39150285720825195,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3820223808288574,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3934295177459717,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3867778778076172,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3874485492706299,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3899106979370117,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39090609550476074,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.37395787239074707,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.383497953414917,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.37920427322387695,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38948750495910645,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.3889191150665283,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.38234472274780273,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 2,
+        "time": 0.39354634284973145,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0662486553192139,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0696959495544434,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0569825172424316,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0727012157440186,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0701587200164795,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.045172929763794,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.1560416221618652,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.073563575744629,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0482895374298096,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0396604537963867,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0607614517211914,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0761349201202393,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0418424606323242,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0439774990081787,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0690796375274658,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0578360557556152,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0587236881256104,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.042914628982544,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0480775833129883,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0586292743682861,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0468473434448242,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0575358867645264,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0567960739135742,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0564005374908447,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0566461086273193,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0506012439727783,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0562644004821777,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.0432565212249756,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.054412603378296,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 1.3120033740997314,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1108219623565674,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1718180179595947,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.2798962593078613,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.123124122619629,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.0932161808013916,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.0809404850006104,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.119218349456787,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.3611552715301514,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.0656278133392334,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1033644676208496,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1136200428009033,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.093278408050537,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1146035194396973,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1332855224609375,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.113370180130005,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1441197395324707,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1386663913726807,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.559983491897583,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1926052570343018,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1037070751190186,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.098909616470337,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1292574405670166,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1630842685699463,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1081697940826416,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.4096810817718506,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.0891294479370117,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.095313549041748,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1420035362243652,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.1357903480529785,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 17,
+        "time": 3.0725982189178467,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.23209381103515625,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24568653106689453,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24065017700195312,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24348020553588867,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24118328094482422,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2416398525238037,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2445063591003418,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2461082935333252,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24139690399169922,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24498248100280762,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24240326881408691,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.23712515830993652,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2331244945526123,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2431790828704834,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2389073371887207,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.23563814163208008,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24721050262451172,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2513284683227539,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24396491050720215,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24267339706420898,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.23975014686584473,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24919939041137695,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2435157299041748,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24397897720336914,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.2372434139251709,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.23799514770507812,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.248366117477417,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.23943710327148438,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.24764442443847656,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 0,
+        "time": 0.25311946868896484,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.480313777923584,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.530778646469116,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.50036358833313,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.5349695682525635,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4860661029815674,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.497702121734619,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.53434681892395,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.580298662185669,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.497436285018921,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.492589235305786,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.552798271179199,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.5194664001464844,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.5297231674194336,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.5270254611968994,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4922282695770264,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.5929720401763916,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4826467037200928,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4936470985412598,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.501418352127075,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4865338802337646,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.474759340286255,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 3.149334669113159,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 3.108102560043335,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 3.4342098236083984,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.8251824378967285,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.48378586769104,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4988420009613037,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.501385450363159,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4404916763305664,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.4987006187438965,
+        "repetition": 29
+    }
+]

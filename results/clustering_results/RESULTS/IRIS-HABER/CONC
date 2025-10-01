@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9354491233825684,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0159759521484375,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9880919456481934,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9604835510253906,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9648432731628418,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0514814853668213,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9622135162353516,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9508144855499268,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9503779411315918,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9380989074707031,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.050523042678833,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9723563194274902,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.94234299659729,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9392080307006836,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.1332247257232666,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.2054102420806885,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9682250022888184,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9550211429595947,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9437518119812012,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9558618068695068,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.1473820209503174,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0992097854614258,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.1022300720214844,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.173633337020874,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0725059509277344,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9810616970062256,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.104193925857544,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0326793193817139,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9167001247406006,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9281365871429443,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5899291038513184,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.591055154800415,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.6339540481567383,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5491275787353516,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.8186132907867432,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.7557764053344727,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.6758184432983398,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5702660083770752,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5660514831542969,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5640923976898193,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.544654369354248,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.534337043762207,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5331597328186035,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5560848712921143,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5709316730499268,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5317022800445557,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5502688884735107,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.551368236541748,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5315120220184326,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.6858203411102295,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5435669422149658,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5364494323730469,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5904808044433594,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5639517307281494,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5810766220092773,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.508110523223877,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5509788990020752,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.552414894104004,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5431451797485352,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 5,
+        "time": 1.5596120357513428,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7776403427124023,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7816283702850342,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7828123569488525,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7836871147155762,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7896711826324463,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7878775596618652,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.782900333404541,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7921500205993652,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7812991142272949,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7848153114318848,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7892394065856934,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7879610061645508,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7994263172149658,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7733798027038574,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7874834537506104,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.774834156036377,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7869911193847656,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7897489070892334,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7964460849761963,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7677381038665771,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7772321701049805,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7829306125640869,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.788820743560791,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7900385856628418,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7880697250366211,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7748167514801025,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.794163703918457,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7778184413909912,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7833781242370605,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7774627208709717,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.48714542388916016,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.49291038513183594,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.48891377449035645,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.4963979721069336,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5091028213500977,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5470025539398193,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5307266712188721,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5808391571044922,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5059700012207031,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.49916863441467285,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5151505470275879,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5001888275146484,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.49489927291870117,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5074284076690674,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5112419128417969,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.49184226989746094,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5024549961090088,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5076146125793457,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.4984159469604492,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.4955148696899414,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5238311290740967,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5110979080200195,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.49228549003601074,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5033349990844727,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.4901149272918701,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.49297451972961426,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.500328540802002,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.5012688636779785,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.4924137592315674,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.4988083839416504,
+        "repetition": 29
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5705370903015137,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5583672523498535,
+        "repetition": 1
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5664482116699219,
+        "repetition": 2
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5840566158294678,
+        "repetition": 3
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5825996398925781,
+        "repetition": 4
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5803515911102295,
+        "repetition": 5
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5623929500579834,
+        "repetition": 6
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5912990570068359,
+        "repetition": 7
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5860500335693359,
+        "repetition": 8
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5386488437652588,
+        "repetition": 9
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5438385009765625,
+        "repetition": 10
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5597891807556152,
+        "repetition": 11
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5691087245941162,
+        "repetition": 12
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5700063705444336,
+        "repetition": 13
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5640976428985596,
+        "repetition": 14
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5653712749481201,
+        "repetition": 15
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5767111778259277,
+        "repetition": 16
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5607001781463623,
+        "repetition": 17
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5708940029144287,
+        "repetition": 18
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5794675350189209,
+        "repetition": 19
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5668337345123291,
+        "repetition": 20
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5591487884521484,
+        "repetition": 21
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5734126567840576,
+        "repetition": 22
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5672399997711182,
+        "repetition": 23
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5679688453674316,
+        "repetition": 24
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5553174018859863,
+        "repetition": 25
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5616536140441895,
+        "repetition": 26
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5768558979034424,
+        "repetition": 27
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5716977119445801,
+        "repetition": 28
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 3,
+        "time": 0.5628290176391602,
+        "repetition": 29
+    }
+]

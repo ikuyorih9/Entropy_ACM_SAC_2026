@@ -1,0 +1,1202 @@
+[
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9471907615661621,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9542989730834961,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9614720344543457,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9899647235870361,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9593954086303711,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.06044602394104,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9808852672576904,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9893908500671387,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.963719367980957,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0305628776550293,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9901111125946045,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0504491329193115,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9505014419555664,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9673023223876953,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9729993343353271,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9707767963409424,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9592936038970947,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9575583934783936,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0311923027038574,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9871809482574463,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0114006996154785,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9505267143249512,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.968217134475708,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9598844051361084,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9500465393066406,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9521157741546631,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.0653855800628662,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9779345989227295,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 1.085615634918213,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9627344608306885,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.38710546493530273,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3944423198699951,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39893555641174316,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39006519317626953,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39334964752197266,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.4108109474182129,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.4081857204437256,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.41356563568115234,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3984699249267578,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39374303817749023,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3917663097381592,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3932344913482666,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.40180134773254395,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39490294456481934,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.38822412490844727,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39295148849487305,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.40917468070983887,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39505577087402344,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39778614044189453,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39434313774108887,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3966834545135498,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3960268497467041,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.39394712448120117,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3926103115081787,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3908677101135254,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3900918960571289,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.403517484664917,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3903031349182129,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3863198757171631,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 0,
+        "time": 0.3865084648132324,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1466090679168701,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1368122100830078,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.155907392501831,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1659154891967773,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.163818359375,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1493902206420898,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.162126064300537,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1513042449951172,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.140364408493042,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.149625301361084,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.158432960510254,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1260619163513184,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1612567901611328,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1577224731445312,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1386592388153076,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1206581592559814,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1646060943603516,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.3233284950256348,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.165910005569458,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.153817892074585,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1620898246765137,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1385369300842285,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1555581092834473,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1296443939208984,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1340529918670654,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1513543128967285,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1461212635040283,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1386995315551758,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1466472148895264,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 6,
+        "time": 1.1953227519989014,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2625675201416016,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2715275287628174,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2767090797424316,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2764928340911865,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.294416904449463,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.381030321121216,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2729287147521973,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.298863172531128,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2881972789764404,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.231045961380005,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2606163024902344,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2730603218078613,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.251929998397827,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2662642002105713,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2638800144195557,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.3830113410949707,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2550156116485596,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.292879819869995,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2261650562286377,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2571001052856445,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2460784912109375,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.247220993041992,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2670705318450928,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.3142004013061523,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2441093921661377,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.29913592338562,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.249131441116333,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.3719842433929443,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.2720181941986084,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 12,
+        "time": 2.259268045425415,
+        "repetition": 29
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4013466835021973,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4272918701171875,
+        "repetition": 1
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.502357244491577,
+        "repetition": 2
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4322381019592285,
+        "repetition": 3
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.441540002822876,
+        "repetition": 4
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4144890308380127,
+        "repetition": 5
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4282567501068115,
+        "repetition": 6
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.3885996341705322,
+        "repetition": 7
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.3413004875183105,
+        "repetition": 8
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4074885845184326,
+        "repetition": 9
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4121785163879395,
+        "repetition": 10
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.420189619064331,
+        "repetition": 11
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.441854476928711,
+        "repetition": 12
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.392981767654419,
+        "repetition": 13
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.3809866905212402,
+        "repetition": 14
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.441892147064209,
+        "repetition": 15
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.412181854248047,
+        "repetition": 16
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.422414541244507,
+        "repetition": 17
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.402468681335449,
+        "repetition": 18
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4180965423583984,
+        "repetition": 19
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.3909974098205566,
+        "repetition": 20
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.421480178833008,
+        "repetition": 21
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4345638751983643,
+        "repetition": 22
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.3744304180145264,
+        "repetition": 23
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.3769309520721436,
+        "repetition": 24
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.35599422454834,
+        "repetition": 25
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.401512861251831,
+        "repetition": 26
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.411763906478882,
+        "repetition": 27
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.3782196044921875,
+        "repetition": 28
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.4730777740478516,
+        "repetition": 29
+    }
+]
