@@ -119,6 +119,7 @@ class XYPlot:
         show_legend: bool = True,
         show_labels: bool = True,
         show_ylabel: bool = True,
+        show_xlabel: bool = True,
         marker: str = "o"
     ):
         if ax is None:
@@ -181,8 +182,15 @@ class XYPlot:
             ax.set_ylabel("")
             ax.set_yticklabels([])
             ax.tick_params(axis='y', length=0)
+        
+        if show_xlabel:
+            ax.set_xlabel(self.xlabel or x, fontsize=self.xlabel_size)
+        else:
+            ax.set_xlabel("")
+            ax.set_xticklabels([])
+            ax.tick_params(axis='x', length=0)
 
-        ax.set_xlabel(self.xlabel or x, fontsize=self.xlabel_size)
+        
         ax.set_xticklabels(ax.get_xticklabels(), rotation=self.rotation_x)
         ax.set_yticklabels(ax.get_yticklabels(), rotation=self.rotation_y)
 

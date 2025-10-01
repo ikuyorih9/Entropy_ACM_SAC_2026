@@ -3,15 +3,13 @@ import numpy as np
 import os
 from utils.XYPlot import XYPlot, Legend
 
-selected_load = 'CANCER-PHON'
+selected_load = 'OIL-MAMMO'
 
 color_map = {
     "BZ2": "#1f77b4",
     "GZIP": "#1f77b4",
-    "HEVC": "#d62728",
-    "JP2": "#d62728",
+    "ENTROPY": "#1f77b4",
     "PPMD": "#1f77b4",
-    "WEBP": "#d62728",
     "ZLIB": "#1f77b4"
 }
 
@@ -21,11 +19,11 @@ marker_map = {
     "PROCESS": "*"
 }
 
-output_dir="../results/4.2.8_generate_effectiveness_efficiency_map"
+output_dir="../results/"
 os.makedirs(output_dir, exist_ok=True)
 
-times_data = "../results/4.2.3_incremental_damicore/incremental_stats.csv"
-perf_data = "../results/4.2.5_generate_effectiveness_barplots/incremental_performance_stats.csv"
+times_data = "../results/incremental_stats.csv"
+perf_data = "../results/incremental_performance_stats.csv"
 
 
 df_times = pd.read_csv(times_data)
@@ -33,7 +31,6 @@ df_times = df_times[df_times['load']==selected_load]
 
 df_perf = pd.read_csv(perf_data).drop(columns=['Unnamed: 0'])
 df_perf = df_perf[df_perf['load']==selected_load]
-
 
 df_eficacia = df_perf[['compressor','accuracy']]
 df_eficiencia = df_times[['compressor', 'type', 'median_time']]
@@ -58,15 +55,19 @@ for t in types:
 
     min_f1 = subset["accuracy"].min()
     max_f1 = subset["accuracy"].max()
-
-    # Normalização dentro do grupo e atribuição apenas nas linhas do grupo
-    df.loc[mask, "efficacy"] = (
-        (subset["accuracy"] - min_f1) / (max_f1 - min_f1)
-    )
+    
+    if max_f1 - min_f1 == 0:
+        df.loc[mask, "efficacy"] = max_f1  # valor neutro se todos iguais
+    else:
+        df.loc[mask, "efficacy"] = (
+            (subset["accuracy"] - min_f1) / (max_f1 - min_f1)
+        )
 
 df = df[['type','compressor', 'efficacy','efficiency']]
 df["color"] = df["compressor"].map(color_map)
     
+print(df)
+input()
 legend = Legend(
     "Tipo de compressor", 
     ["#d62728", "#1f77b4"], 
@@ -75,9 +76,9 @@ legend = Legend(
 )
 plot = XYPlot(
     title_size=32,
-    xlabel="Eficácia",
+    ylabel="Effectiveness",
     xlabel_size=24,
-    ylabel="Eficiência",
+    xlabel="Efficiency",
     ylim=(-0.05, 1.075),
     ylabel_size=24,
     rotation_x=0,
@@ -89,8 +90,8 @@ plot = XYPlot(
 plots = [
     lambda ax: plot.scatterplot(
         data=df[df['type']=='MEMORY'],
-        x="efficacy",
-        y="efficiency",
+        x="efficiency",
+        y="efficacy",
         label_col="compressor",
         # color_col="color",
         use_adjust_text=True,
@@ -108,8 +109,8 @@ plots = [
     ),
     lambda ax: plot.scatterplot(
         data=df[df['type']=='API'],
-        x="efficacy",
-        y="efficiency",
+        x="efficiency",
+        y="efficacy",
         label_col="compressor",
         # color_col="color",
         pound_x=1,
@@ -123,15 +124,14 @@ plots = [
         show_legend=False,
         title="API",
         ax=ax,
-        show_ylabel=False,
+        show_xlabel=False,
         show_plot=False
     ),
     lambda ax: plot.scatterplot(
         data=df[df['type']=='PROCESS'],
-        x="efficacy",
-        y="efficiency",
+        y="efficacy",
+        x="efficiency",
         label_col="compressor",
-        # color_col="color",
         pound_x=1,
         pound_y=3,
         offset_x=0.05,
@@ -144,7 +144,7 @@ plots = [
         title="PROCESS",
         ax=ax,
         show_plot=False,
-        show_ylabel=False
+        show_xlabel=False
     ),
 ]
 
@@ -152,8 +152,8 @@ plots = [
 
 plot.generate_multiplots(
     plot_functions=plots,
-    title=f"Mapa de eficácia contra eficiência por tipos de defeito na carga {selected_load}",
-    nrows=1,
-    ncols=3,
-    output_image_path=f"{output_dir}/{selected_load}_eficiencia_eficacia.png"
+    title=f"Effectiveness versus efficiency map by anomaly types",
+    nrows=3,
+    ncols=1,
+    output_image_path=f"{output_dir}/{selected_load}_efficiency_effectiveness.png"
 )

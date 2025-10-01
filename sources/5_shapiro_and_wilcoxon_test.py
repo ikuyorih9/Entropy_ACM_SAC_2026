@@ -43,10 +43,10 @@ for load in os.listdir(data):
     for type in os.listdir(load_dir):
         file_path = f"{load_dir}/{type}"
         df = pd.read_json(file_path)
-        df = remove_compressor_from_df(['webp_lossless', 'jp2_lossless', 'png', 'entropy','bzip2'], df)
+        # df = remove_compressor_from_df(['webp_lossless', 'jp2_lossless', 'png', 'entropy','bzip2'], df)
         df = remove_lossy_or_lossless_from_df(df)
-        df['compressor'] = df['compressor'].replace('HEIF', 'HEVC')
-        df = order_df_by_compressor(df, ['ZLIB', 'PPMD', 'GZIP', 'BZ2','WEBP','JP2', 'HEVC'])
+        # df['compressor'] = df['compressor'].replace('HEIF', 'HEVC')
+        df = order_df_by_compressor(df, ['ZLIB', 'PPMD', 'GZIP', 'BZ2','ENTROPY'])
         
         compressores = df["compressor"].unique()
 
