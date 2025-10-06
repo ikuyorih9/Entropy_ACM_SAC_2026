@@ -10,7 +10,7 @@ import os
 all_types =  ['API', 'CONC', 'LOGIC', 'MEMORY', 'MODEL', 'PROCESS', 'TRAIN', 'ANOTHER-CONTROL']
 all_loads =  ['BANK-PIMA', 'CANCER-PHON', 'IONO-SOLAR', 'IRIS-HABER', 'OIL-MAMMO', 'WINE-HEART']
 compressors = ["zlib", "gzip", "bzip2", "bz2", "ppmd", "lzma", "webp_lossless", "png", "jp2_lossless", "entropy", "webp_lossy", "jp2_lossy", "heif"]
-profiles_dir = "../../../data/profiles/original_data"
+profiles_dir = "../../../data/profiles/"
 results_dir = "../../../results"
 
 from damicore import damicore
@@ -286,13 +286,18 @@ if __name__ == '__main__':
         "--loads",
         nargs="+",
         default=all_loads,
-        choices=all_loads,
         help=f"Loads selecionados (padrão: {all_loads})"
     )
     parser.add_argument(
         "--output",
         type=str,
         default="results",  # valor padrão
+        help="Diretório ou arquivo de saída (padrão: 'resultados')"
+    )
+    parser.add_argument(
+        "--input",
+        type=str,
+        default="original_data",  # valor padrão
         help="Diretório ou arquivo de saída (padrão: 'resultados')"
     )
 
@@ -309,6 +314,7 @@ if __name__ == '__main__':
     selected_loads = args.loads
     all = args.all
 
+    profiles_dir = f"{profiles_dir}/{args.input}"
     output_dir = f"{results_dir}/{args.output}"
     os.makedirs(output_dir, exist_ok=True)
 
